@@ -19,6 +19,7 @@ redirect_from:
 | Multiplayer and Networking | 多玩家和网络   |
 | Space Partition            | 空间分割       |
 | Minkowski Operation        | 闵可夫斯基操作 |
+| Math                       | 高等数学       |
 
 # 奖项
 
