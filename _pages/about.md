@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # 奖项
 
 - 2024年卡方科技-股票交易强化学习挑战赛 第十一名
