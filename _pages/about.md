@@ -14,21 +14,13 @@ redirect_from:
 
 # 专利
 
-- 一种教育用六轴机械臂
-
-  http://zengbaocheng-996.github.io/files/CN215358430U.pdf
-
-- 一种教育型六轴机械臂
-
-  http://zengbaocheng-996.github.io/files/CN215358437U.pdf
-
-- 一种用于教学机械臂的柔性机械爪
-
-  http://zengbaocheng-996.github.io/files/CN113635287B.pdf
+- [一种教育型六轴机械臂](http://zengbaocheng-996.github.io/files/CN215358437U.pdf)
+- [一种用于教学机械臂的柔性机械爪](http://zengbaocheng-996.github.io/files/CN113635287B.pdf)
+- [一种教育用六轴机械臂](http://zengbaocheng-996.github.io/files/CN215358430U.pdf)
 
 # 论文
 
-- H. Li, C. Fang, J. Shi, B. Zeng and C. Zhou, "Error Compensation for Long Arm Manipulator Based on Deflection Modeling and Neural Network," 2021 IEEE 4th International Conference on Automation, Electronics and Electrical Engineering (AUTEEE), Shenyang, China, 2021, pp. 72-76, doi: 10.1109/AUTEEE52864.2021.9668690. keywords: {Training;Employee welfare;Electrical engineering;Economics;Neural networks;Error compensation;Training data;manipulator;deflection;neural network;absolute error compensation},
+- [Error Compensation for Long Arm Manipulator Based on Deflection Modeling and Neural Network](http://zengbaocheng-996.github.io/files/Error_Compensation_for_Long_Arm_Manipulator_Based_on_Deflection_Modeling_and_Neural_Network.pdf)
 
-  http://zengbaocheng-996.github.io/files/Error_Compensation_for_Long_Arm_Manipulator_Based_on_Deflection_Modeling_and_Neural_Network.pdf
+  H. Li, C. Fang, J. Shi, B. Zeng and C. Zhou, "Error Compensation for Long Arm Manipulator Based on Deflection Modeling and Neural Network," 2021 IEEE 4th International Conference on Automation, Electronics and Electrical Engineering (AUTEEE), Shenyang, China, 2021, pp. 72-76, doi: 10.1109/AUTEEE52864.2021.9668690. keywords: {Training;Employee welfare;Electrical engineering;Economics;Neural networks;Error compensation;Training data;manipulator;deflection;neural network;absolute error compensation},
 
