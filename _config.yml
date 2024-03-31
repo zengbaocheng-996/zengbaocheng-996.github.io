@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zbc.png"
+  avatar           : "zbc.jpg"
   name             : "Baocheng Zeng"
   #pronouns         : # example: "she/her"  
   bio              : "Programmer"
