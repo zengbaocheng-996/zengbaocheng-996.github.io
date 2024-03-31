@@ -9,7 +9,7 @@ redirect_from:
 
 # 奖项
 
-- [卡方科技-股票交易强化学习挑战赛 第十一名](http://zengbaocheng-996.github.io/files/0002100000025.pdf)
+- [卡方科技-股票交易强化学习挑战赛 第十一名](http://zengbaocheng-996.github.io/files/KF0002100000025.pdf)
 - [第十二届世界无人帆船锦标赛 一等奖 第一名](http://www.cse.zju.edu.cn/cxcy/2020/1130/c73204a2677156/page.htm)
 - 2019年第十四届中控杯 二等奖
 
