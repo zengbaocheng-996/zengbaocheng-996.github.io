@@ -26,8 +26,8 @@ author:
   #pronouns         : # example: "she/her"  
   bio              : "Programmer"
   location         : "Beijing"
-  employer         : "Perfect World Co. Ltd."
-                     "Zhejiang University"
+  # employer         : "Perfect World Co. Ltd."
+
  # uri              : # URL
   email            : "3180102361@zju.edu.cn" 
 
