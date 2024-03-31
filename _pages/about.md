@@ -1,5 +1,7 @@
 ---
 permalink: /
+//title: "About Me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,6 +23,4 @@ redirect_from:
 # 论文
 
 - [Error Compensation for Long Arm Manipulator Based on Deflection Modeling and Neural Network](http://zengbaocheng-996.github.io/files/Error_Compensation_for_Long_Arm_Manipulator_Based_on_Deflection_Modeling_and_Neural_Network.pdf)
-
-  H. Li, C. Fang, J. Shi, B. Zeng and C. Zhou, "Error Compensation for Long Arm Manipulator Based on Deflection Modeling and Neural Network," 2021 IEEE 4th International Conference on Automation, Electronics and Electrical Engineering (AUTEEE), Shenyang, China, 2021, pp. 72-76, doi: 10.1109/AUTEEE52864.2021.9668690. keywords: {Training;Employee welfare;Electrical engineering;Economics;Neural networks;Error compensation;Training data;manipulator;deflection;neural network;absolute error compensation},
 
