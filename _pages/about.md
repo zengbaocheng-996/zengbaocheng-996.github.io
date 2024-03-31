@@ -10,16 +10,25 @@ redirect_from:
 
 [Gameplay Research and Engineering](https://github.com/Gameplay-Research-and-Engineering)
 
-|                            |                |
-| -------------------------- | -------------- |
-| Third Person Controller    | 第三人称控制器 |
-| Input System               | 输入系统       |
-| Graphics                   | 图形           |
-| Navigation and Pathfinding | 导航和寻路     |
-| Multiplayer and Networking | 多玩家和网络   |
-| Space Partition            | 空间分割       |
-| Minkowski Operation        | 闵可夫斯基操作 |
-| Math                       | 高等数学       |
+| Field                      |
+| -------------------------- |
+| Third Person Controller    |
+| Input System               |
+| Graphics                   |
+| Navigation and Pathfinding |
+| Multiplayer and Networking |
+| Space Partition            |
+| Minkowski Operation        |
+
+# 研究
+
+| Field                                                        |
+| ------------------------------------------------------------ |
+| [Computer Network](https://github.com/zengbaocheng-996/Computer-Network) |
+| [Computer Organization and Architecture](https://github.com/zengbaocheng-996/Computer-Organization-and-Architecture) |
+| [Operating System](https://github.com/zengbaocheng-996/Operating-System) |
+| [Data Structure](https://github.com/zengbaocheng-996/Data-Structure) |
+| [Higher Mathematics](https://github.com/zengbaocheng-996/Math) |
 
 # 奖项
 
