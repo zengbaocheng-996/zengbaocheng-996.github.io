@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "Math"
-permalink: /math/
+permalink: /
+title: ""
 author_profile: true
 ---
 
