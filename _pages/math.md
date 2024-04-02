@@ -5,14 +5,37 @@ permalink: /math/
 author_profile: true
 ---
 
-[零基础](http://zengbaocheng-996.github.io/files/math/meta.pdf)
+| Field                          |                                                              |
+| ------------------------------ | ------------------------------------------------------------ |
+| 零基础                         | [零基础](http://zengbaocheng-996.github.io/files/math/meta.pdf) |
+| 函数、极限、连续               | [函数及函数的初等特性](http://zengbaocheng-996.github.io/files/math/1.pdf)<br />[极限](http://zengbaocheng-996.github.io/files/math/2.pdf)<br />[无穷小和无穷大](http://zengbaocheng-996.github.io/files/math/3.pdf)<br />[极限存在准则与重要极限](http://zengbaocheng-996.github.io/files/math/4.pdf)<br />[连续与间断](http://zengbaocheng-996.github.io/files/math/5.pdf) |
+| 导数与微分                     |                                                              |
+| 中值定理与一元函数微分学的应用 |                                                              |
+| 不定积分                       |                                                              |
+| 定积分及应用                   |                                                              |
+| 多元函数微分学                 |                                                              |
+| 二重积分                       |                                                              |
+| 微分方程                       |                                                              |
+| 三重积分与曲线、曲面积分       |                                                              |
+| 无穷级数                       |                                                              |
+| 向量代数与空间解析几何         |                                                              |
 
-[函数及函数的初等特性](http://zengbaocheng-996.github.io/files/math/1.pdf)
+| Field                  |
+| ---------------------- |
+| 行列式                 |
+| 矩阵                   |
+| 向量                   |
+| 线性方程组             |
+| 矩阵的特征值和特征向量 |
+| 二次型                 |
 
-[极限](http://zengbaocheng-996.github.io/files/math/2.pdf)
-
-[无穷小和无穷大](http://zengbaocheng-996.github.io/files/math/3.pdf)
-
-[极限存在准则与重要极限](http://zengbaocheng-996.github.io/files/math/4.pdf)
-
-[连续与间断](http://zengbaocheng-996.github.io/files/math/5.pdf)
+| Field                  |
+| ---------------------- |
+| 随机事件与概率         |
+| 随机变量及其分布       |
+| 多维随机变量及其分布   |
+| 随机变量的数字特征     |
+| 大数定律和中心极限定理 |
+| 数理统计的基本概念     |
+| 参数估计               |
+| 假设检验               |
