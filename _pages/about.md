@@ -22,13 +22,13 @@ redirect_from:
 
 # 研究
 
-| Field                                                        |
-| ------------------------------------------------------------ |
-| [Computer Network](https://github.com/zengbaocheng-996/Computer-Network) |
-| [Computer Organization and Architecture](https://github.com/zengbaocheng-996/Computer-Organization-and-Architecture) |
-| [Operating System](https://github.com/zengbaocheng-996/Operating-System) |
-| [Data Structure](https://github.com/zengbaocheng-996/Data-Structure) |
-| [Higher Mathematics](https://github.com/zengbaocheng-996/Math) |
+| Field                                  |
+| -------------------------------------- |
+| Computer Network                       |
+| Computer Organization and Architecture |
+| Operating System                       |
+| Data Structure                         |
+| Higher Mathematics                     |
 
 # 奖项
 
