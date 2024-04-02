@@ -5,4 +5,4 @@ permalink: /math/
 author_profile: true
 ---
 
-[meta](https://zengbaocheng-996.github.io/math/meta)
+[零基础](http://zengbaocheng-996.github.io/files/math/meta.pdf)
