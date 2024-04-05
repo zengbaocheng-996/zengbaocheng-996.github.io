@@ -31,7 +31,7 @@
         <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
       {% if author.wechat %}
-      <li class="author__desktop"><i class="fa fa-solid fa-weixin icon-pad-right" aria-hidden="true"></i>{{ author.wechat }}</li>
+      <li class="author__desktop"><i class="fa fa-weixin" aria-hidden="true"></i>{{ author.wechat }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
