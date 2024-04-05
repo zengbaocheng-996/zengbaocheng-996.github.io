@@ -3,6 +3,8 @@ main:
   - title: "Math"
     url: /math/
 
+  - title: "Data Structure"
+    url: /ds/
   # - title: "Talks"
   #   url: /talks/    
 
