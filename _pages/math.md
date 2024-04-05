@@ -9,7 +9,7 @@ author_profile: true
 | ------------------------------ | ------------------------------------------------------------ |
 | 零基础                         | [零基础](http://zengbaocheng-996.github.io/files/math/0.pdf) |
 | 函数、极限、连续               | [函数及函数的初等特性](http://zengbaocheng-996.github.io/files/math/1.pdf)<br />[极限](http://zengbaocheng-996.github.io/files/math/2.pdf)<br />[无穷小和无穷大](http://zengbaocheng-996.github.io/files/math/3.pdf)<br />[极限存在准则与重要极限](http://zengbaocheng-996.github.io/files/math/4.pdf)<br />[连续与间断](http://zengbaocheng-996.github.io/files/math/5.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m1.pdf) |
-| 导数与微分                     | [导数与微分](http://zengbaocheng-996.github.io/files/math/6.pdf)<br />[隐函数及参数方程确定的函数的导数](http://zengbaocheng-996.github.io/files/math/7.pdf) |
+| 导数与微分                     | [导数与微分](http://zengbaocheng-996.github.io/files/math/6.pdf)<br />[隐函数及参数方程确定的函数的导数](http://zengbaocheng-996.github.io/files/math/7.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m2.pdf) |
 | 中值定理与一元函数微分学的应用 | [中值定理](http://zengbaocheng-996.github.io/files/math/8.pdf)<br />[洛必达法则](http://zengbaocheng-996.github.io/files/math/9.pdf)<br />[导数的应用](http://zengbaocheng-996.github.io/files/math/10.pdf) |
 | 不定积分                       | [不定积分的基本概念与性质](http://zengbaocheng-996.github.io/files/math/11.pdf)<br />[不定积分的积分法](http://zengbaocheng-996.github.io/files/math/12.pdf)<br />[两类特殊函数的不定积分](http://zengbaocheng-996.github.io/files/math/13.pdf) |
 | 定积分及应用                   | [定积分](http://zengbaocheng-996.github.io/files/math/14.pdf)<br />[反常积分](http://zengbaocheng-996.github.io/files/math/15.pdf)<br />[定积分的几何应用](http://zengbaocheng-996.github.io/files/math/16.pdf) |
