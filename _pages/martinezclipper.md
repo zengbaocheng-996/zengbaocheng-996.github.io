@@ -33,8 +33,8 @@ author_profile: true
 | SweepEvent       |
 | Triangulator     |
 
-| Field           |      |
-| --------------- | ---- |
-| PolygonRenderer |      |
-| Test            |      |
+| Field           |
+| --------------- |
+| PolygonRenderer |
+| Test            |
 
