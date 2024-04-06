@@ -5,6 +5,10 @@ main:
 
   - title: "Data Structure"
     url: /ds/
+
+  - title: "Martinez Clipper"
+    url: /mc/
+      
   # - title: "Talks"
   #   url: /talks/    
 
