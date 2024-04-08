@@ -5,6 +5,8 @@ permalink: /ds/
 author_profile: true
 ---
 
+[Data Structure Visualization (usfca.edu)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
 | Field                                                        |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [绪论](http://zengbaocheng-996.github.io/files/ds/0.pdf)     | 数据结构的基本概念<br />算法和算法评价                       |
