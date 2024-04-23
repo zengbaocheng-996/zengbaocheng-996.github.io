@@ -1,5 +1,6 @@
 # main links links
 main:
+
   - title: "Math"
     url: /math/
 
@@ -9,11 +10,14 @@ main:
   - title: "Operating System"
     url: /os/
 
-  - title: "Martinez Clipper"
-    url: /mc/
+  - title: "Organization and Architecture"
+    url: /oaa/    
       
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Network"
+    url: /nw/
+
+  # - title: "Martinez Clipper"
+  #   url: /mc/
 
   # - title: "Teaching"
   #   url: /teaching/    
