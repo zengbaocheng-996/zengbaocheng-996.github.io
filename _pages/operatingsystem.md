@@ -17,6 +17,6 @@ author_profile: true
 | ---------- | ------------------------------------------------------------ |
 | 进程与线程 | 进程的概念和特征<br />进程的组成<br />进程的状态与转换<br />进程控制<br />进程的通信<br />线程和多线程模型 |
 | CPU调度    | 调度的概念<br />调度的实现<br />调度的目标<br />进程切换<br />典型的调度算法 |
-| 同步与互斥 | [同步与互斥的基本概念](http://zengbaocheng-996.github.io/files/os/2-3-1.pdf)<br />[实现临界区互斥的基本方法](http://zengbaocheng-996.github.io/files/os/2-3-2.pdf)<br />互斥锁<br />信号量<br />经典同步问题<br />管程 |
+| 同步与互斥 | [同步与互斥的基本概念](http://zengbaocheng-996.github.io/files/os/2-3-1.pdf)<br />[实现临界区互斥的基本方法](http://zengbaocheng-996.github.io/files/os/2-3-2.pdf)<br />[互斥锁](http://zengbaocheng-996.github.io/files/os/2-3-3.pdf)<br />[信号量](http://zengbaocheng-996.github.io/files/os/2-3-4.pdf)<br />[经典同步问题](http://zengbaocheng-996.github.io/files/os/2-3-5.pdf)<br />[管程](http://zengbaocheng-996.github.io/files/os/2-3-6.pdf) |
 | 死锁       | 死锁的概念<br />死锁预防<br />死锁避免<br />死锁检测和解除   |
 
