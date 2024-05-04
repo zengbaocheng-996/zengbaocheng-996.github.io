@@ -25,14 +25,14 @@ author_profile: true
 | 进程与线程 |                                                              |
 | ---------- | ------------------------------------------------------------ |
 | 进程与线程 | [进程的概念和特征](http://zengbaocheng-996.github.io/files/os/2-1-1.pdf)<br />[进程的组成](http://zengbaocheng-996.github.io/files/os/2-1-2.pdf)<br />[进程的状态与转换](http://zengbaocheng-996.github.io/files/os/2-1-3.pdf)<br />[进程控制](http://zengbaocheng-996.github.io/files/os/2-1-4.pdf)<br />[进程的通信](http://zengbaocheng-996.github.io/files/os/2-1-5.pdf)<br />[线程和多线程模型](http://zengbaocheng-996.github.io/files/os/2-1-6.pdf) |
-| CPU调度    | 调度的概念<br />调度的实现<br />调度的目标<br />进程切换<br />典型的调度算法 |
+| CPU调度    | [调度的概念](http://zengbaocheng-996.github.io/files/os/2-2-1.pdf)<br />[调度的实现](http://zengbaocheng-996.github.io/files/os/2-2-2.pdf)<br />[调度的目标](http://zengbaocheng-996.github.io/files/os/2-2-3.pdf)<br />[进程切换](http://zengbaocheng-996.github.io/files/os/2-2-4.pdf)<br />[典型的调度算法](http://zengbaocheng-996.github.io/files/os/2-2-5.pdf) |
 | 同步与互斥 | [同步与互斥的基本概念](http://zengbaocheng-996.github.io/files/os/2-3-1.pdf)<br />[实现临界区互斥的基本方法](http://zengbaocheng-996.github.io/files/os/2-3-2.pdf)<br />[互斥锁](http://zengbaocheng-996.github.io/files/os/2-3-3.pdf)<br />[信号量](http://zengbaocheng-996.github.io/files/os/2-3-4.pdf)<br />[经典同步问题](http://zengbaocheng-996.github.io/files/os/2-3-5.pdf)<br />[管程](http://zengbaocheng-996.github.io/files/os/2-3-6.pdf) |
 | 死锁       | [死锁的概念](http://zengbaocheng-996.github.io/files/os/2-4-1.pdf)<br />[死锁预防](http://zengbaocheng-996.github.io/files/os/2-4-2.pdf)<br />[死锁避免](http://zengbaocheng-996.github.io/files/os/2-4-3.pdf)<br />[死锁检测和解除](http://zengbaocheng-996.github.io/files/os/2-4-4.pdf) |
 
 | 内存管理     |                                                              |
 | ------------ | ------------------------------------------------------------ |
-| 内存管理概念 | 内存管理的基本原理和要求<br />连续分配管理方式<br />基本分页存储管理<br />基本分段存储管理<br />段页式存储管理 |
-| 虚拟内存管理 | 虚拟内存的基本概念<br />请求分页管理方式<br />页框分配<br />页面置换算法<br />抖动和工作集<br />内存映射文件<br />虚拟存储器性能影响因素<br />地址翻译 |
+| 内存管理概念 | [内存管理的基本原理和要求](http://zengbaocheng-996.github.io/files/os/3-1-1.pdf)<br />[连续分配管理方式](http://zengbaocheng-996.github.io/files/os/3-1-2.pdf)<br />[基本分页存储管理](http://zengbaocheng-996.github.io/files/os/3-1-3.pdf)<br />[基本分段存储管理](http://zengbaocheng-996.github.io/files/os/3-1-4.pdf)<br />[段页式存储管理](http://zengbaocheng-996.github.io/files/os/3-1-5.pdf) |
+| 虚拟内存管理 | [虚拟内存的基本概念](http://zengbaocheng-996.github.io/files/os/3-2-1.pdf)<br />[请求分页管理方式](http://zengbaocheng-996.github.io/files/os/3-2-2.pdf)<br />[页框分配](http://zengbaocheng-996.github.io/files/os/3-2-3.pdf)<br />[页面置换算法](http://zengbaocheng-996.github.io/files/os/3-2-4.pdf)<br />[抖动和工作集](http://zengbaocheng-996.github.io/files/os/3-2-5.pdf)<br />[内存映射文件](http://zengbaocheng-996.github.io/files/os/3-2-6.pdf)<br />[虚拟存储器性能影响因素](http://zengbaocheng-996.github.io/files/os/3-2-7.pdf)<br />[地址翻译](http://zengbaocheng-996.github.io/files/os/3-2-8.pdf) |
 
 | 文件管理     |                                                              |
 | ------------ | ------------------------------------------------------------ |
