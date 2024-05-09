@@ -13,14 +13,14 @@ author_profile: true
 | 文件管理             | 文件系统基础<br />目录<br />文件系统                         |
 | 输入/输出（I/O）管理 | I/O管理概述<br />设备独立性软件<br />磁盘和固态硬盘          |
 
-| 计算机系统概述     |                                                              |
-| ------------------ | ------------------------------------------------------------ |
-| 操作系统的基本概念 | 操作系统的概念<br />操作系统的特征<br />操作系统的目标和功能 |
-| 操作系统发展历程   | 手工操作阶段（此阶段无操作系统）<br />批处理阶段（操作系统开始出现）<br />分时操作系统<br />实时操作系统<br />网络操作系统和分布式计算机系统<br />个人计算机操作系统 |
-| 操作系统的运行环境 | 处理器运行模式<br />中断和异常的概念<br />系统调用           |
-| 操作系统结构       | \                                                            |
-| 操作系统引导       | \                                                            |
-| 虚拟机             | 虚拟机的基本概念                                             |
+| 计算机系统概述                                               |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 操作系统的基本概念                                           | [操作系统的概念](http://zengbaocheng-996.github.io/files/os/1-1-1.pdf)<br />[操作系统的特征](http://zengbaocheng-996.github.io/files/os/1-1-2.pdf)<br />[操作系统的目标和功能](http://zengbaocheng-996.github.io/files/os/1-1-3.pdf) |
+| 操作系统发展历程                                             | [手工操作阶段（此阶段无操作系统）](http://zengbaocheng-996.github.io/files/os/1-2-1.pdf)<br />[批处理阶段（操作系统开始出现）](http://zengbaocheng-996.github.io/files/os/1-2-2.pdf)<br />[分时操作系统](http://zengbaocheng-996.github.io/files/os/1-2-3.pdf)<br />[实时操作系统](http://zengbaocheng-996.github.io/files/os/1-2-4.pdf)<br />[网络操作系统和分布式计算机系统](http://zengbaocheng-996.github.io/files/os/1-2-5.pdf)<br />[个人计算机操作系统](http://zengbaocheng-996.github.io/files/os/1-2-6.pdf) |
+| 操作系统的运行环境                                           | [处理器运行模式](http://zengbaocheng-996.github.io/files/os/1-3-1.pdf)<br />[中断和异常的概念](http://zengbaocheng-996.github.io/files/os/1-3-2.pdf)<br />[系统调用](http://zengbaocheng-996.github.io/files/os/1-3-3.pdf) |
+| [操作系统结构](http://zengbaocheng-996.github.io/files/os/1-4.pdf) | \                                                            |
+| [操作系统引导](http://zengbaocheng-996.github.io/files/os/1-5.pdf) | \                                                            |
+| 虚拟机                                                       | [虚拟机的基本概念](http://zengbaocheng-996.github.io/files/os/1-6-1.pdf) |
 
 | 进程与线程 |                                                              |
 | ---------- | ------------------------------------------------------------ |
@@ -36,13 +36,13 @@ author_profile: true
 
 | 文件管理     |                                                              |
 | ------------ | ------------------------------------------------------------ |
-| 文件系统基础 | 文件的基本概念<br />文件控制块和索引结点<br />文件的操作<br />文件保护<br />文件的逻辑结构<br />文件的物理结构 |
-| 目录         | 目录的基本概念<br />目录结构<br />目录的操作<br />目录实现<br />文件共享 |
-| 文件系统     | 文件系统结构<br />文件系统布局<br />外存空闲空间管理<br />虚拟文件系统<br />文件系统挂载 |
+| 文件系统基础 | [文件的基本概念](http://zengbaocheng-996.github.io/files/os/4-1-1.pdf)<br />[文件控制块和索引结点](http://zengbaocheng-996.github.io/files/os/4-1-2.pdf)<br />[文件的操作](http://zengbaocheng-996.github.io/files/os/4-1-3.pdf)<br />[文件保护](http://zengbaocheng-996.github.io/files/os/4-1-4.pdf)<br />[文件的逻辑结构](http://zengbaocheng-996.github.io/files/os/4-1-5.pdf)<br />[文件的物理结构](http://zengbaocheng-996.github.io/files/os/4-1-6.pdf) |
+| 目录         | [目录的基本概念](http://zengbaocheng-996.github.io/files/os/4-2-1.pdf)<br />[目录结构](http://zengbaocheng-996.github.io/files/os/4-2-2.pdf)<br />[目录的操作](http://zengbaocheng-996.github.io/files/os/4-2-3.pdf)<br />[目录实现](http://zengbaocheng-996.github.io/files/os/4-2-4.pdf)<br />[文件共享](http://zengbaocheng-996.github.io/files/os/4-2-5.pdf) |
+| 文件系统     | [文件系统结构](http://zengbaocheng-996.github.io/files/os/4-3-1.pdf)<br />[文件系统布局](http://zengbaocheng-996.github.io/files/os/4-3-2.pdf)<br />[外存空闲空间管理](http://zengbaocheng-996.github.io/files/os/4-3-3.pdf)<br />[虚拟文件系统](http://zengbaocheng-996.github.io/files/os/4-3-4.pdf)<br />[文件系统挂载](http://zengbaocheng-996.github.io/files/os/4-3-5.pdf) |
 
 | 输入/输出（I/O）管理 |                                                              |
 | -------------------- | ------------------------------------------------------------ |
-| I/O管理概述          | I/O设备<br />I/O控制方式<br />I/O软件层次结构<br />应用程序I/O接口 |
-| 设备独立性软件       | 设备独立性软件<br />高速缓存与缓冲区<br />SPOOLing技术（假脱机技术）<br />设备驱动程序接口 |
-| 磁盘和固态硬盘       | 磁盘<br />磁盘的管理<br />磁盘调度算法<br />固态硬盘         |
+| I/O管理概述          | [I/O设备](http://zengbaocheng-996.github.io/files/os/5-1-1.pdf)<br />[I/O控制方式](http://zengbaocheng-996.github.io/files/os/5-1-2.pdf)<br />[I/O软件层次结构](http://zengbaocheng-996.github.io/files/os/5-1-3.pdf)<br />[应用程序I/O接口](http://zengbaocheng-996.github.io/files/os/5-1-4.pdf) |
+| 设备独立性软件       | [设备独立性软件](http://zengbaocheng-996.github.io/files/os/5-2-1.pdf)<br />[高速缓存与缓冲区](http://zengbaocheng-996.github.io/files/os/5-2-2.pdf)<br />[SPOOLing技术（假脱机技术）](http://zengbaocheng-996.github.io/files/os/5-2-3.pdf)<br />[设备驱动程序接口](http://zengbaocheng-996.github.io/files/os/5-2-4.pdf) |
+| 磁盘和固态硬盘       | [磁盘](http://zengbaocheng-996.github.io/files/os/5-3-1.pdf)<br />[磁盘的管理](http://zengbaocheng-996.github.io/files/os/5-3-2.pdf)<br />[磁盘调度算法](http://zengbaocheng-996.github.io/files/os/5-3-3.pdf)<br />[固态硬盘](http://zengbaocheng-996.github.io/files/os/5-3-4.pdf) |
 
