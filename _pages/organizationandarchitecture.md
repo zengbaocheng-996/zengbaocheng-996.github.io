@@ -17,13 +17,13 @@ author_profile: true
 
 | 计算机系统概述     |                                                              |
 | ------------------ | ------------------------------------------------------------ |
-| 计算机发展历程     | [计算机硬件的发展](http://zengbaocheng-996.github.io/files/oaa/1-1-1.pdf)<br />计算机软件的发展 |
-| 计算机系统层次结构 | 计算机系统的组成<br />计算机硬件<br />计算机软件<br />计算机系统的层次结构<br />计算机系统的工作原理 |
-| 计算机的性能指标   | 计算机的主要性能指标<br />几个专业术语                       |
+| 计算机发展历程     | [计算机硬件的发展](http://zengbaocheng-996.github.io/files/oaa/1-1-1.pdf)<br />[计算机软件的发展](http://zengbaocheng-996.github.io/files/oaa/1-1-2.pdf) |
+| 计算机系统层次结构 | [计算机系统的组成](http://zengbaocheng-996.github.io/files/oaa/1-2-1.pdf)<br />[计算机硬件](http://zengbaocheng-996.github.io/files/oaa/1-2-2.pdf)<br />[计算机软件](http://zengbaocheng-996.github.io/files/oaa/1-2-3.pdf)<br />[计算机系统的层次结构](http://zengbaocheng-996.github.io/files/oaa/1-2-4.pdf)<br />[计算机系统的工作原理](http://zengbaocheng-996.github.io/files/oaa/1-2-5.pdf) |
+| 计算机的性能指标   | [计算机的主要性能指标](http://zengbaocheng-996.github.io/files/oaa/1-3-1.pdf)<br />[几个专业术语](http://zengbaocheng-996.github.io/files/oaa/1-3-2.pdf) |
 
 | 数据的表示和运算   |                                                              |
 | ------------------ | ------------------------------------------------------------ |
-| 数制与编码         | 进位计数制及其相互转换<br />定点数的编码表示<br />整数的表示<br />C语言中的整数类型及类型转换 |
+| 数制与编码         | [进位计数制及其相互转换](http://zengbaocheng-996.github.io/files/oaa/2-1-1.pdf)<br />定点数的编码表示<br />整数的表示<br />C语言中的整数类型及类型转换 |
 | 运算方法和运算电路 | 基本运算部件<br />定点数的移位运算<br />定点数的加减运算<br />定点数的乘除运算 |
 | 浮点数的表示与运算 | 浮点数的表示<br />浮点数的加减运算<br />C语言中的浮点数类型<br />数据的大小端和对齐存储 |
 
