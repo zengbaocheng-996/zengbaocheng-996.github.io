@@ -11,7 +11,7 @@ author_profile: true
 | 导数与微分                     | [导数与微分](http://zengbaocheng-996.github.io/files/math/6.pdf)<br />[隐函数及参数方程确定的函数的导数](http://zengbaocheng-996.github.io/files/math/7.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m2.pdf) |
 | 中值定理与一元函数微分学的应用 | [中值定理](http://zengbaocheng-996.github.io/files/math/8.pdf)<br />[洛必达法则](http://zengbaocheng-996.github.io/files/math/9.pdf)<br />[导数的应用](http://zengbaocheng-996.github.io/files/math/10.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m3.pdf) |
 | 不定积分                       | [不定积分的基本概念与性质](http://zengbaocheng-996.github.io/files/math/11.pdf)<br />[不定积分的积分法](http://zengbaocheng-996.github.io/files/math/12.pdf)<br />[两类特殊函数的不定积分](http://zengbaocheng-996.github.io/files/math/13.pdf) |
-| 定积分及应用                   | [定积分](http://zengbaocheng-996.github.io/files/math/14.pdf)<br />[反常积分](http://zengbaocheng-996.github.io/files/math/15.pdf)<br />[定积分的几何应用](http://zengbaocheng-996.github.io/files/math/16.pdf) |
+| 定积分及应用                   | [定积分](http://zengbaocheng-996.github.io/files/math/14.pdf)<br />[反常积分](http://zengbaocheng-996.github.io/files/math/15.pdf)<br />[定积分的应用](http://zengbaocheng-996.github.io/files/math/16.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m4.pdf) |
 | 微分方程                       | [微分方程](http://zengbaocheng-996.github.io/files/math/17.pdf) |
 | 多元函数微分学                 | [多元函数微分学](http://zengbaocheng-996.github.io/files/math/18.pdf) |
 | 重积分                         | [二重积分](http://zengbaocheng-996.github.io/files/math/19.pdf)<br />[三重积分](http://zengbaocheng-996.github.io/files/math/20.pdf) |
