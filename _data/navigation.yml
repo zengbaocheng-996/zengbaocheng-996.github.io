@@ -16,6 +16,9 @@ main:
   - title: "Network"
     url: /nw/
 
+  - title: "English"
+    url: /english/
+
   # - title: "Martinez Clipper"
   #   url: /mc/
 
