@@ -23,9 +23,9 @@ author_profile: true
 
 | 数据的表示和运算   |                                                              |
 | ------------------ | ------------------------------------------------------------ |
-| 数制与编码         | [进位计数制及其相互转换](http://zengbaocheng-996.github.io/files/oaa/2-1-1.html)<br />定点数的编码表示<br />整数的表示<br />C语言中的整数类型及类型转换 |
-| 运算方法和运算电路 | 基本运算部件<br />定点数的移位运算<br />定点数的加减运算<br />定点数的乘除运算 |
-| 浮点数的表示与运算 | 浮点数的表示<br />浮点数的加减运算<br />C语言中的浮点数类型<br />数据的大小端和对齐存储 |
+| 数制与编码         | [进位计数制及其相互转换](http://zengbaocheng-996.github.io/files/oaa/2-1-1.pdf)<br />[定点数的编码表示](http://zengbaocheng-996.github.io/files/oaa/2-1-2.pdf)<br />[整数的表示](http://zengbaocheng-996.github.io/files/oaa/2-1-3.pdf)<br />[C语言中的整数类型及类型转换](http://zengbaocheng-996.github.io/files/oaa/2-1-4.pdf) |
+| 运算方法和运算电路 | [基本运算部件](http://zengbaocheng-996.github.io/files/oaa/2-2-1.pdf)<br />[定点数的移位运算](http://zengbaocheng-996.github.io/files/oaa/2-2-2.pdf)<br />[定点数的加减运算](http://zengbaocheng-996.github.io/files/oaa/2-2-3.pdf)<br />[定点数的乘除运算](http://zengbaocheng-996.github.io/files/oaa/2-2-4.pdf) |
+| 浮点数的表示与运算 | [浮点数的表示](http://zengbaocheng-996.github.io/files/oaa/2-3-1.pdf)<br />[浮点数的加减运算](http://zengbaocheng-996.github.io/files/oaa/2-3-2.pdf)<br />[C语言中的浮点数类型](http://zengbaocheng-996.github.io/files/oaa/2-3-3.pdf)<br />[数据的大小端和对齐存储](http://zengbaocheng-996.github.io/files/oaa/2-3-4.pdf) |
 
 | 存储系统            |                                                              |
 | ------------------- | ------------------------------------------------------------ |
