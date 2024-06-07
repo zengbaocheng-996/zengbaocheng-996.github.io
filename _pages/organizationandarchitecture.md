@@ -29,7 +29,7 @@ author_profile: true
 
 | 存储系统            |                                                              |
 | ------------------- | ------------------------------------------------------------ |
-| 存储器概述          | 存储器的分类<br />存储器的性能指标<br />多级层次的存储系统   |
+| 存储器概述          | [存储器的分类](http://zengbaocheng-996.github.io/files/oaa/3-1-1.pdf)<br />[存储器的性能指标](http://zengbaocheng-996.github.io/files/oaa/3-1-2.pdf)<br />[多级层次的存储系统](http://zengbaocheng-996.github.io/files/oaa/3-1-3.pdf) |
 | 主存储器            | SRAM芯片和DRAM芯片<br />只读存储器<br />主存储器的基本组成<br />多模块存储器 |
 | 主存储器与CPU的连接 | 连接原理<br />主存容量的扩展<br />存储芯片的地址分配和片选<br />存储器与CPU的连接 |
 | 外部存储器          | 磁盘存储器<br />固态硬盘                                     |
