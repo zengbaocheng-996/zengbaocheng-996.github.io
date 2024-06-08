@@ -30,7 +30,7 @@ author_profile: true
 | 存储系统            |                                                              |
 | ------------------- | ------------------------------------------------------------ |
 | 存储器概述          | [存储器的分类](http://zengbaocheng-996.github.io/files/oaa/3-1-1.pdf)<br />[存储器的性能指标](http://zengbaocheng-996.github.io/files/oaa/3-1-2.pdf)<br />[多级层次的存储系统](http://zengbaocheng-996.github.io/files/oaa/3-1-3.pdf) |
-| 主存储器            | SRAM芯片和DRAM芯片<br />只读存储器<br />主存储器的基本组成<br />多模块存储器 |
+| 主存储器            | [SRAM芯片和DRAM芯片](http://zengbaocheng-996.github.io/files/oaa/3-2-1.pdf)<br />[只读存储器](http://zengbaocheng-996.github.io/files/oaa/3-2-2.pdf)<br />[主存储器的基本组成](http://zengbaocheng-996.github.io/files/oaa/3-2-3.pdf)<br />[多模块存储器](http://zengbaocheng-996.github.io/files/oaa/3-2-4.pdf) |
 | 主存储器与CPU的连接 | 连接原理<br />主存容量的扩展<br />存储芯片的地址分配和片选<br />存储器与CPU的连接 |
 | 外部存储器          | 磁盘存储器<br />固态硬盘                                     |
 | 高速缓冲存储器      | 程序访问的局部性原理<br />Cache的基本工作原理<br />Cache和主存的映射方式<br />Cache中主存块的替换算法<br />Cache的一致性问题 |
