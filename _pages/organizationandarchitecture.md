@@ -31,10 +31,10 @@ author_profile: true
 | ------------------- | ------------------------------------------------------------ |
 | 存储器概述          | [存储器的分类](http://zengbaocheng-996.github.io/files/oaa/3-1-1.pdf)<br />[存储器的性能指标](http://zengbaocheng-996.github.io/files/oaa/3-1-2.pdf)<br />[多级层次的存储系统](http://zengbaocheng-996.github.io/files/oaa/3-1-3.pdf) |
 | 主存储器            | [SRAM芯片和DRAM芯片](http://zengbaocheng-996.github.io/files/oaa/3-2-1.pdf)<br />[只读存储器](http://zengbaocheng-996.github.io/files/oaa/3-2-2.pdf)<br />[主存储器的基本组成](http://zengbaocheng-996.github.io/files/oaa/3-2-3.pdf)<br />[多模块存储器](http://zengbaocheng-996.github.io/files/oaa/3-2-4.pdf) |
-| 主存储器与CPU的连接 | 连接原理<br />主存容量的扩展<br />存储芯片的地址分配和片选<br />存储器与CPU的连接 |
-| 外部存储器          | 磁盘存储器<br />固态硬盘                                     |
-| 高速缓冲存储器      | 程序访问的局部性原理<br />Cache的基本工作原理<br />Cache和主存的映射方式<br />Cache中主存块的替换算法<br />Cache的一致性问题 |
-| 虚拟存储器          | 虚拟存储器的基本概念<br />页式虚拟存储器<br />段页式虚拟存储器<br />虚拟存储器与Cache的比较 |
+| 主存储器与CPU的连接 | [连接原理](http://zengbaocheng-996.github.io/files/oaa/3-3-1.pdf)<br />[主存容量的扩展](http://zengbaocheng-996.github.io/files/oaa/3-3-2.pdf)<br />[存储芯片的地址分配和片选](http://zengbaocheng-996.github.io/files/oaa/3-3-3.pdf)<br />[存储器与CPU的连接](http://zengbaocheng-996.github.io/files/oaa/3-3-4.pdf) |
+| 外部存储器          | [磁盘存储器](http://zengbaocheng-996.github.io/files/oaa/3-4-1.pdf)<br />[固态硬盘](http://zengbaocheng-996.github.io/files/oaa/3-4-2.pdf) |
+| 高速缓冲存储器      | [程序访问的局部性原理](http://zengbaocheng-996.github.io/files/oaa/3-5-1.pdf)<br />[Cache的基本工作原理](http://zengbaocheng-996.github.io/files/oaa/3-5-2.pdf)<br />[Cache和主存的映射方式](http://zengbaocheng-996.github.io/files/oaa/3-5-3.pdf)<br />[Cache中主存块的替换算法](http://zengbaocheng-996.github.io/files/oaa/3-5-4.pdf)<br />[Cache的一致性问题](http://zengbaocheng-996.github.io/files/oaa/3-5-5.pdf) |
+| 虚拟存储器          | [虚拟存储器的基本概念](http://zengbaocheng-996.github.io/files/oaa/3-6-1.pdf)<br />[页式虚拟存储器](http://zengbaocheng-996.github.io/files/oaa/3-6-2.pdf)<br />[段页式虚拟存储器](http://zengbaocheng-996.github.io/files/oaa/3-6-3.pdf)<br />[虚拟存储器与Cache的比较](http://zengbaocheng-996.github.io/files/oaa/3-6-4.pdf) |
 
 | 指令系统             |                                                              |
 | -------------------- | ------------------------------------------------------------ |
