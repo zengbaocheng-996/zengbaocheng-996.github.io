@@ -38,8 +38,8 @@ author_profile: true
 
 | 指令系统             |                                                              |
 | -------------------- | ------------------------------------------------------------ |
-| 指令系统             | 指令集体系结构<br />指令的基本格式<br />定长操作码指令格式<br />扩展操作码指令格式<br />指令的操作类型 |
-| 指令的寻址方式       | 指令寻址和数据寻址<br />常见的数据寻址方式                   |
+| 指令系统             | [指令集体系结构](http://zengbaocheng-996.github.io/files/oaa/4-1-1.pdf)<br />[指令的基本格式](http://zengbaocheng-996.github.io/files/oaa/4-1-2.pdf)<br />[定长操作码指令格式](http://zengbaocheng-996.github.io/files/oaa/4-1-3.pdf)<br />[扩展操作码指令格式](http://zengbaocheng-996.github.io/files/oaa/4-1-4.pdf)<br />[指令的操作类型](http://zengbaocheng-996.github.io/files/oaa/4-1-5.pdf) |
+| 指令的寻址方式       | [指令寻址和数据寻址](http://zengbaocheng-996.github.io/files/oaa/4-2-1.pdf)<br />[常见的数据寻址方式](http://zengbaocheng-996.github.io/files/oaa/4-2-2.pdf) |
 | 程序的机器级代码表示 | 常用汇编指令介绍<br />选择语句的机器级表示<br />循环语句的机器级表示<br />过程调用的机器级表示 |
 | CISC和RISC的基本概念 | 复杂指令系统计算机（CISC）<br />精简指令系统计算机（RISC）<br />CISC和RISC的比较 |
 
