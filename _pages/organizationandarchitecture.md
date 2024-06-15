@@ -45,7 +45,7 @@ author_profile: true
 
 | 中央处理器               |                                                              |
 | ------------------------ | ------------------------------------------------------------ |
-| CPU的功能和基本结构      | [CPU的功能](http://zengbaocheng-996.github.io/files/oaa/4-5-1.pdf)<br />[CPU的基本结构](http://zengbaocheng-996.github.io/files/oaa/4-5-2.pdf)<br />[CPU的寄存器](http://zengbaocheng-996.github.io/files/oaa/4-5-3.pdf) |
+| CPU的功能和基本结构      | [CPU的功能](http://zengbaocheng-996.github.io/files/oaa/5-1-1.pdf)<br />[CPU的基本结构](http://zengbaocheng-996.github.io/files/oaa/5-1-2.pdf)<br />[CPU的寄存器](http://zengbaocheng-996.github.io/files/oaa/5-1-3.pdf) |
 | 指令执行过程             | 指令周期<br />指令周期的数据流<br />指令执行方案             |
 | 数据通路的功能和基本结构 | 数据通路的功能<br />数据通路的组成<br />数据通路的基本结构<br />数据通路的操作举例 |
 | 控制器的功能和工作原理   | 控制器的结构和功能<br />硬布线控制器<br />微程序控制器       |
