@@ -48,10 +48,10 @@ author_profile: true
 | CPU的功能和基本结构      | [CPU的功能](http://zengbaocheng-996.github.io/files/oaa/5-1-1.pdf)<br />[CPU的基本结构](http://zengbaocheng-996.github.io/files/oaa/5-1-2.pdf)<br />[CPU的寄存器](http://zengbaocheng-996.github.io/files/oaa/5-1-3.pdf) |
 | 指令执行过程             | [指令周期](http://zengbaocheng-996.github.io/files/oaa/5-2-1.pdf)<br />[指令周期的数据流](http://zengbaocheng-996.github.io/files/oaa/5-2-2.pdf)<br />[指令执行方案](http://zengbaocheng-996.github.io/files/oaa/5-2-3.pdf) |
 | 数据通路的功能和基本结构 | [数据通路的功能](http://zengbaocheng-996.github.io/files/oaa/5-3-1.pdf)<br />[数据通路的组成](http://zengbaocheng-996.github.io/files/oaa/5-3-2.pdf)<br />[数据通路的基本结构](http://zengbaocheng-996.github.io/files/oaa/5-3-3.pdf)<br />[数据通路的操作举例](http://zengbaocheng-996.github.io/files/oaa/5-3-4.pdf) |
-| 控制器的功能和工作原理   | 控制器的结构和功能<br />硬布线控制器<br />微程序控制器       |
-| 异常和中断机制           | 异常和中断的基本概念<br />异常和中断的分类<br />异常和中断响应过程 |
-| 指令流水线               | 指令流水线的基本概念<br />流水线的基本实现<br />流水线的冒险与处理<br />流水线的性能指标<br />高级流水线技术 |
-| 多处理器的基本概念       | SISD、SIMD、MIMD的基本概念<br />硬件多线程的基本概念<br />多核处理器的基本概念<br />共享内存多处理器的基本概念 |
+| 控制器的功能和工作原理   | [控制器的结构和功能](http://zengbaocheng-996.github.io/files/oaa/5-4-1.pdf)<br />[硬布线控制器](http://zengbaocheng-996.github.io/files/oaa/5-4-2.pdf)<br />[微程序控制器](http://zengbaocheng-996.github.io/files/oaa/5-4-3.pdf) |
+| 异常和中断机制           | [异常和中断的基本概念](http://zengbaocheng-996.github.io/files/oaa/5-5-1.pdf)<br />[异常和中断的分类](http://zengbaocheng-996.github.io/files/oaa/5-5-2.pdf)<br />[异常和中断响应过程](http://zengbaocheng-996.github.io/files/oaa/5-5-3.pdf) |
+| 指令流水线               | [指令流水线的基本概念](http://zengbaocheng-996.github.io/files/oaa/5-6-1.pdf)<br />[流水线的基本实现](http://zengbaocheng-996.github.io/files/oaa/5-6-2.pdf)<br />[流水线的冒险与处理](http://zengbaocheng-996.github.io/files/oaa/5-6-3.pdf)<br />[流水线的性能指标](http://zengbaocheng-996.github.io/files/oaa/5-6-4.pdf)<br />[高级流水线技术](http://zengbaocheng-996.github.io/files/oaa/5-6-5.pdf) |
+| 多处理器的基本概念       | [SISD、SIMD、MIMD的基本概念](http://zengbaocheng-996.github.io/files/oaa/5-7-1.pdf)<br />[硬件多线程的基本概念](http://zengbaocheng-996.github.io/files/oaa/5-7-2.pdf)<br />[多核处理器的基本概念](http://zengbaocheng-996.github.io/files/oaa/5-7-3.pdf)<br />[共享内存多处理器的基本概念](http://zengbaocheng-996.github.io/files/oaa/5-7-4.pdf) |
 
 | 总线           |                                                              |
 | -------------- | ------------------------------------------------------------ |
