@@ -55,8 +55,8 @@ author_profile: true
 
 | 总线           |                                                              |
 | -------------- | ------------------------------------------------------------ |
-| 总线概述       | 总线基本概念<br />总线的分类<br />系统总线的结构<br />常见的总线标准<br />总线的性能指标 |
-| 总线事务和定时 | 总线事务<br />总线定时                                       |
+| 总线概述       | [总线基本概念](http://zengbaocheng-996.github.io/files/oaa/6-1-1.pdf)<br />[总线的分类](http://zengbaocheng-996.github.io/files/oaa/6-1-2.pdf)<br />[系统总线的结构](http://zengbaocheng-996.github.io/files/oaa/6-1-3.pdf)<br />[常见的总线标准](http://zengbaocheng-996.github.io/files/oaa/6-1-4.pdf)<br />[总线的性能指标](http://zengbaocheng-996.github.io/files/oaa/6-1-5.pdf) |
+| 总线事务和定时 | 【总线事务](http://zengbaocheng-996.github.io/files/oaa/6-2-1.pdf)<br />[总线定时](http://zengbaocheng-996.github.io/files/oaa/6-2-2.pdf) |
 
 | 输入/输出系统   |                                                              |
 | --------------- | ------------------------------------------------------------ |
