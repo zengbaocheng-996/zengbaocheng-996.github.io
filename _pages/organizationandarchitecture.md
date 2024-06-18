@@ -60,7 +60,7 @@ author_profile: true
 
 | 输入/输出系统   |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| I/O系统基本概念 | 输入/输出系统<br />I/O控制方式<br />外部设备                 |
-| I/O接口         | I/O接口的功能<br />I/O接口的基本结构<br />I/O接口的类型<br />I/O端口及其编址 |
-| I/O方式         | 程序查询方式<br />程序中断方式<br />DMA方式                  |
+| I/O系统基本概念 | [输入/输出系统](http://zengbaocheng-996.github.io/files/oaa/7-1-1.pdf)<br />[I/O控制方式](http://zengbaocheng-996.github.io/files/oaa/7-1-2.pdf)<br />[外部设备](http://zengbaocheng-996.github.io/files/oaa/7-1-3.pdf) |
+| I/O接口         | [I/O接口的功能](http://zengbaocheng-996.github.io/files/oaa/7-2-1.pdf)<br />[I/O接口的基本结构](http://zengbaocheng-996.github.io/files/oaa/7-2-2.pdf)<br />[I/O接口的类型](http://zengbaocheng-996.github.io/files/oaa/7-2-3.pdf)<br />[I/O端口及其编址](http://zengbaocheng-996.github.io/files/oaa/7-2-4.pdf) |
+| I/O方式         | [程序查询方式](http://zengbaocheng-996.github.io/files/oaa/7-3-1.pdf)<br />[程序中断方式](http://zengbaocheng-996.github.io/files/oaa/7-3-2.pdf)<br />[DMA方式](http://zengbaocheng-996.github.io/files/oaa/7-3-3.pdf) |
 
