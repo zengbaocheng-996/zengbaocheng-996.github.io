@@ -16,14 +16,14 @@ author_profile: true
 
 | 计算机网络体系结构           |                                                              |
 | ---------------------------- | ------------------------------------------------------------ |
-| 计算机网络概述               | [计算机网络的概念](http://zengbaocheng-996.github.io/files/nw/1-1-1.pdf)<br />计算机网络的组成<br />计算机网络的功能<br />电路交换、报文交换与分组交换<br />计算机网络的分类<br />计算机网络的性能指标 |
-| 计算机网络体系结构与参考模型 | 计算机网络分层结构<br />计算机网络协议、接口、服务的概念<br />ISO/OSI参考模型和TCP/IP模型 |
+| 计算机网络概述               | [计算机网络的概念](http://zengbaocheng-996.github.io/files/nw/1-1-1.pdf)<br />[计算机网络的组成](http://zengbaocheng-996.github.io/files/nw/1-1-2.pdf)<br />[计算机网络的功能](http://zengbaocheng-996.github.io/files/nw/1-1-3.pdf)<br />[电路交换、报文交换与分组交换](http://zengbaocheng-996.github.io/files/nw/1-1-4.pdf)<br />[计算机网络的分类](http://zengbaocheng-996.github.io/files/nw/1-1-5.pdf)<br />[计算机网络的性能指标](http://zengbaocheng-996.github.io/files/nw/1-1-6.pdf) |
+| 计算机网络体系结构与参考模型 | [计算机网络分层结构](http://zengbaocheng-996.github.io/files/nw/1-2-1.pdf)<br />[计算机网络协议、接口、服务的概念](http://zengbaocheng-996.github.io/files/nw/1-2-2.pdf)<br />[ISO/OSI参考模型和TCP/IP模型](http://zengbaocheng-996.github.io/files/nw/1-2-3.pdf) |
 
-| 物理层     |                                                            |
-| ---------- | ---------------------------------------------------------- |
-| 通信基础   | 基本概念<br />信道的极限容量<br />编码与调制               |
-| 传输介质   | 双绞线、同轴电缆、光纤与无线传输介质<br />物理层接口的特性 |
-| 物理层设备 | 中继器<br />集线器                                         |
+| 物理层     |                                                              |
+| ---------- | ------------------------------------------------------------ |
+| 通信基础   | [基本概念](http://zengbaocheng-996.github.io/files/nw/2-1-1.pdf)<br />[信道的极限容量](http://zengbaocheng-996.github.io/files/nw/2-1-2.pdf)<br />[编码与调制](http://zengbaocheng-996.github.io/files/nw/2-1-3.pdf) |
+| 传输介质   | [双绞线、同轴电缆、光纤与无线传输介质](http://zengbaocheng-996.github.io/files/nw/2-2-1.pdf)<br />[物理层接口的特性](http://zengbaocheng-996.github.io/files/nw/2-2-2.pdf) |
+| 物理层设备 | [中继器](http://zengbaocheng-996.github.io/files/nw/2-3-1.pdf)<br />[集线器](http://zengbaocheng-996.github.io/files/nw/2-3-2.pdf) |
 
 | 数据链路层             |                                                              |
 | ---------------------- | ------------------------------------------------------------ |
