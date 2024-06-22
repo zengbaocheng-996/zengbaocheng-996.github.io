@@ -27,14 +27,14 @@ author_profile: true
 
 | 数据链路层             |                                                              |
 | ---------------------- | ------------------------------------------------------------ |
-| 数据链路层的功能       | 数据链路层所处的地位<br />为网络层提供服务<br />链路管理<br />封装成帧与透明传输<br />流量控制<br />差错检测 |
-| 组帧                   | 字符计数法<br />字节填充法<br />零比特填充法<br />违规编码法 |
-| 差错控制               | 检错编码<br />纠错编码                                       |
-| 流量控制与可靠传输机制 | 流量控制与滑动窗口机制<br />可靠传输机制                     |
-| 介质访问控制           | 信道划分介质访问控制<br />随机访问介质访问控制<br />轮询访问：令牌传递协议 |
-| 局域网                 | 局域网的基本概念和体系结构<br />以太网与IEEE 802.3<br />IEEE 802.11无线局域网<br />VLAN基本概念与基本原理 |
-| 广域网                 | 广域网的基本概念<br />PPP协议                                |
-| 数据链路层设备         | 网桥的基本概念<br />以太网交换机                             |
+| 数据链路层的功能       | [数据链路层所处的地位](http://zengbaocheng-996.github.io/files/nw/3-1-1.pdf)<br />[为网络层提供服务](http://zengbaocheng-996.github.io/files/nw/3-1-2.pdf)<br />[链路管理](http://zengbaocheng-996.github.io/files/nw/3-1-3.pdf)<br />[封装成帧与透明传输](http://zengbaocheng-996.github.io/files/nw/3-1-4.pdf)<br />[流量控制](http://zengbaocheng-996.github.io/files/nw/3-1-5.pdf)<br />[差错检测](http://zengbaocheng-996.github.io/files/nw/3-1-6.pdf) |
+| 组帧                   | [字符计数法](http://zengbaocheng-996.github.io/files/nw/3-2-1.pdf)<br />[字节填充法](http://zengbaocheng-996.github.io/files/nw/3-2-2.pdf)<br />[零比特填充法](http://zengbaocheng-996.github.io/files/nw/3-2-3.pdf)<br />[违规编码法](http://zengbaocheng-996.github.io/files/nw/3-2-4.pdf) |
+| 差错控制               | [检错编码](http://zengbaocheng-996.github.io/files/nw/3-3-1.pdf)<br />[纠错编码](http://zengbaocheng-996.github.io/files/nw/3-3-2.pdf) |
+| 流量控制与可靠传输机制 | [流量控制与滑动窗口机制](http://zengbaocheng-996.github.io/files/nw/3-4-1.pdf)<br />[可靠传输机制](http://zengbaocheng-996.github.io/files/nw/3-4-2.pdf) |
+| 介质访问控制           | [信道划分介质访问控制](http://zengbaocheng-996.github.io/files/nw/3-5-1.pdf)<br />[随机访问介质访问控制](http://zengbaocheng-996.github.io/files/nw/3-5-2.pdf)<br />[轮询访问：令牌传递协议](http://zengbaocheng-996.github.io/files/nw/3-5-3.pdf) |
+| 局域网                 | [局域网的基本概念和体系结构](http://zengbaocheng-996.github.io/files/nw/3-6-1.pdf)<br />[以太网与IEEE 802.3](http://zengbaocheng-996.github.io/files/nw/3-6-2.pdf)<br />[IEEE 802.11无线局域网](http://zengbaocheng-996.github.io/files/nw/3-6-3.pdf)<br />[VLAN基本概念与基本原理](http://zengbaocheng-996.github.io/files/nw/3-6-4.pdf) |
+| 广域网                 | [广域网的基本概念](http://zengbaocheng-996.github.io/files/nw/3-7-1.pdf)<br />[PPP协议](http://zengbaocheng-996.github.io/files/nw/3-7-2.pdf) |
+| 数据链路层设备         | [网桥的基本概念](http://zengbaocheng-996.github.io/files/nw/3-8-1.pdf)<br />[以太网交换机](http://zengbaocheng-996.github.io/files/nw/3-8-2.pdf) |
 
 | 网络层             |                                                              |
 | ------------------ | ------------------------------------------------------------ |
