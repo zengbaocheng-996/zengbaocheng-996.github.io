@@ -5,35 +5,21 @@ permalink: /math/
 author_profile: true
 ---
 
-| Field                          |                                                              |
-| ------------------------------ | ------------------------------------------------------------ |
-| 函数、极限、连续               | [函数及函数的初等特性](http://zengbaocheng-996.github.io/files/math/1.pdf)<br />[极限](http://zengbaocheng-996.github.io/files/math/2.pdf)<br />[无穷小和无穷大](http://zengbaocheng-996.github.io/files/math/3.pdf)<br />[极限存在准则与重要极限](http://zengbaocheng-996.github.io/files/math/4.pdf)<br />[连续与间断](http://zengbaocheng-996.github.io/files/math/5.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m1.pdf) |
-| 导数与微分                     | [导数与微分](http://zengbaocheng-996.github.io/files/math/6.pdf)<br />[隐函数及参数方程确定的函数的导数](http://zengbaocheng-996.github.io/files/math/7.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m2.pdf) |
-| 中值定理与一元函数微分学的应用 | [中值定理](http://zengbaocheng-996.github.io/files/math/8.pdf)<br />[洛必达法则](http://zengbaocheng-996.github.io/files/math/9.pdf)<br />[导数的应用](http://zengbaocheng-996.github.io/files/math/10.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m3.pdf) |
-| 不定积分                       | [不定积分的基本概念与性质](http://zengbaocheng-996.github.io/files/math/11.pdf)<br />[不定积分的积分法](http://zengbaocheng-996.github.io/files/math/12.pdf)<br />[两类特殊函数的不定积分](http://zengbaocheng-996.github.io/files/math/13.pdf) |
-| 定积分及应用                   | [定积分](http://zengbaocheng-996.github.io/files/math/14.pdf)<br />[反常积分](http://zengbaocheng-996.github.io/files/math/15.pdf)<br />[定积分的应用](http://zengbaocheng-996.github.io/files/math/16.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m4.pdf) |
-| 微分方程                       | [微分方程](http://zengbaocheng-996.github.io/files/math/17.pdf) |
-| 多元函数微分学                 | [多元函数微分学](http://zengbaocheng-996.github.io/files/math/18.pdf) |
-| 重积分                         | [二重积分](http://zengbaocheng-996.github.io/files/math/19.pdf)<br />[三重积分](http://zengbaocheng-996.github.io/files/math/20.pdf) |
-| 曲线与曲面积分                 | [曲线与曲面积分](http://zengbaocheng-996.github.io/files/math/21.pdf) |
-| 无穷级数                       | [无穷级数](http://zengbaocheng-996.github.io/files/math/22.pdf) |
-| 向量代数与空间解析几何         | [向量代数与空间解析几何](http://zengbaocheng-996.github.io/files/math/23.pdf) |
-
-| Field                |                                                              |
-| -------------------- | ------------------------------------------------------------ |
-| 零基础               | [零基础](http://zengbaocheng-996.github.io/files/math/0.pdf) |
-| 极限与连续           | 函数<br />极限<br />连续与间断<br />极限的概念与性质<br />左、右极限<br />不定型极限的计算问题<br />n项和或积的极限计算<br />极限存在性问题<br />含参数的极限问题<br />中值定理法求极限问题<br />含变积分限的函数极限问题<br />间断点及其分类<br />闭区间上连续函数性质 |
-| 导数与微分           | 导数与微分的基本概念<br />求导公式与法则<br />隐函数与参数方程确定的函数的求导<br />导数与微分的基本概念<br />基本求导类型<br />导数的几何应用<br />高阶导数 |
-| 一元函数微分学的应用 | 中值定理<br />单调性与极值、凹凸性与拐点、函数作图<br />证明f^{(n)}(\xi)=0<br />待证结论中只有一个中值\xi，不含其他字母<br />结论中含\xi，含a,b<br />结论中含两个或两个以上中值的问题<br />中值定理中关于\theta的问题<br />拉格朗日中值定理的两种惯性思维<br />泰勒公式的常规证明问题<br />二阶导数保号性问题<br />不等式证明<br />函数的零点或方程根的个数问题<br />函数的单调性与极值、渐近线 |
-| 不定积分             | 不定积分的概念与基本性质<br />不定积分基本公式与积分法<br />两类重要函数的不定积分——有理函数与三角有理函数<br />不定积分的基本概念与性质<br />换元积分法<br />分部积分法<br />两类特殊函数的不定积分——有理函数与三角有理函数的不定积分<br />分段函数的积分<br />综合型不定积分 |
-| 定积分及其应用       | 定积分的概念与基本性质<br />基本理论<br />广义积分<br />定积分的应用<br />定积分的概念与性质<br />变积分限的函数问题<br />定积分的计算<br />定积分的证明<br />广义积分<br />定积分的应用 |
-| 多元函数微分学       | 多元函数微分学的基本概念<br />多元函数基本理论<br />多元函数微分学的应用<br />多元函数微分学的几何应用 |
-| 微分方程             | 微分方程的基本概念<br />一阶微分方程的种类及解法<br />可降阶的高阶微分方程<br />高阶微分方程<br />微分方程的基本概念与性质<br />一阶微分方程的求解<br />非特定类型微分方程或变换下微分方程的求解<br />可降阶的高阶微分方程求解<br />微分方程的应用<br />欧拉方程求解 |
-| 重积分               | 二重积分<br />三重积分<br />二重积分的概念与性质<br />改变积分次序<br />二重积分的计算<br />二重积分的综合问题<br />二重积分的应用<br />三重积分的计算<br />三重积分的应用 |
-| 级数                 | 常数项级数<br />幂级数<br />傅里叶级数<br />常数项级数的基本性质与敛散性判断<br />常数项级数敛散性证明<br />幂级数的收敛半径与收敛域<br />函数展开成幂级数<br />幂级数的和函数<br />特殊常数项级数求和<br />傅里叶级数 |
-| 空间解析几何         | 空间解析几何的理论<br />向量的应用<br />向量的运算与性质<br />平面方程<br />直线方程<br />距离与夹角<br />旋转曲面 |
-| 曲线积分与曲面积分   | 曲线积分<br />曲面积分<br />场论初步<br />对弧长的曲线积分<br />二维空间对坐标的曲线积分<br />三维空间对坐标的曲线积分<br />对坐标的曲线积分的应用<br />对面积的曲面积分<br />对坐标的曲面积分<br />场论初步 |
-| 数学的经济应用       | 差分方程<br />边际与弹性<br />现值与利息                     |
+| Field                          |                                                              |                                                              |
+| ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 零基础                         | [零基础](http://zengbaocheng-996.github.io/files/math/0.pdf) |                                                              |
+| 函数、极限、连续               | [函数及函数的初等特性](http://zengbaocheng-996.github.io/files/math/1.pdf)<br />[极限](http://zengbaocheng-996.github.io/files/math/2.pdf)<br />[无穷小和无穷大](http://zengbaocheng-996.github.io/files/math/3.pdf)<br />[极限存在准则与重要极限](http://zengbaocheng-996.github.io/files/math/4.pdf)<br />[连续与间断](http://zengbaocheng-996.github.io/files/math/5.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m1.pdf) | 函数<br />极限<br />连续与间断<br />极限的概念与性质<br />左、右极限<br />不定型极限的计算问题<br />n项和或积的极限计算<br />极限存在性问题<br />含参数的极限问题<br />中值定理法求极限问题<br />含变积分限的函数极限问题<br />间断点及其分类<br />闭区间上连续函数性质 |
+| 导数与微分                     | [导数与微分](http://zengbaocheng-996.github.io/files/math/6.pdf)<br />[隐函数及参数方程确定的函数的导数](http://zengbaocheng-996.github.io/files/math/7.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m2.pdf) | 导数与微分的基本概念<br />求导公式与法则<br />隐函数与参数方程确定的函数的求导<br />导数与微分的基本概念<br />基本求导类型<br />导数的几何应用<br />高阶导数 |
+| 中值定理与一元函数微分学的应用 | [中值定理](http://zengbaocheng-996.github.io/files/math/8.pdf)<br />[洛必达法则](http://zengbaocheng-996.github.io/files/math/9.pdf)<br />[导数的应用](http://zengbaocheng-996.github.io/files/math/10.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m3.pdf) | 中值定理<br />单调性与极值、凹凸性与拐点、函数作图<br />证明f^{(n)}(\xi)=0<br />待证结论中只有一个中值\xi，不含其他字母<br />结论中含\xi，含a,b<br />结论中含两个或两个以上中值的问题<br />中值定理中关于\theta的问题<br />拉格朗日中值定理的两种惯性思维<br />泰勒公式的常规证明问题<br />二阶导数保号性问题<br />不等式证明<br />函数的零点或方程根的个数问题<br />函数的单调性与极值、渐近线 |
+| 不定积分                       | [不定积分的基本概念与性质](http://zengbaocheng-996.github.io/files/math/11.pdf)<br />[不定积分的积分法](http://zengbaocheng-996.github.io/files/math/12.pdf)<br />[两类特殊函数的不定积分](http://zengbaocheng-996.github.io/files/math/13.pdf) | 不定积分的概念与基本性质<br />不定积分基本公式与积分法<br />两类重要函数的不定积分——有理函数与三角有理函数<br />不定积分的基本概念与性质<br />换元积分法<br />分部积分法<br />两类特殊函数的不定积分——有理函数与三角有理函数的不定积分<br />分段函数的积分<br />综合型不定积分 |
+| 定积分及应用                   | [定积分](http://zengbaocheng-996.github.io/files/math/14.pdf)<br />[反常积分](http://zengbaocheng-996.github.io/files/math/15.pdf)<br />[定积分的应用](http://zengbaocheng-996.github.io/files/math/16.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/m4.pdf) | 定积分的概念与基本性质<br />基本理论<br />广义积分<br />定积分的应用<br />定积分的概念与性质<br />变积分限的函数问题<br />定积分的计算<br />定积分的证明<br />广义积分<br />定积分的应用 |
+| 微分方程                       | [微分方程](http://zengbaocheng-996.github.io/files/math/17.pdf)<br />[求偏导](http://zengbaocheng-996.github.io/files/math/m5.pdf) | 微分方程的基本概念<br />一阶微分方程的种类及解法<br />可降阶的高阶微分方程<br />高阶微分方程<br />微分方程的基本概念与性质<br />一阶微分方程的求解<br />非特定类型微分方程或变换下微分方程的求解<br />可降阶的高阶微分方程求解<br />微分方程的应用<br />欧拉方程求解 |
+| 多元函数微分学                 | [多元函数微分学](http://zengbaocheng-996.github.io/files/math/18.pdf) | 多元函数微分学的基本概念<br />多元函数基本理论<br />多元函数微分学的应用<br />多元函数微分学的几何应用 |
+| 重积分                         | [二重积分](http://zengbaocheng-996.github.io/files/math/19.pdf)<br />[三重积分](http://zengbaocheng-996.github.io/files/math/20.pdf) | 二重积分<br />三重积分<br />二重积分的概念与性质<br />改变积分次序<br />二重积分的计算<br />二重积分的综合问题<br />二重积分的应用<br />三重积分的计算<br />三重积分的应用 |
+| 曲线与曲面积分                 | [曲线与曲面积分](http://zengbaocheng-996.github.io/files/math/21.pdf) | 曲线积分<br />曲面积分<br />场论初步<br />对弧长的曲线积分<br />二维空间对坐标的曲线积分<br />三维空间对坐标的曲线积分<br />对坐标的曲线积分的应用<br />对面积的曲面积分<br />对坐标的曲面积分<br />场论初步 |
+| 无穷级数                       | [无穷级数](http://zengbaocheng-996.github.io/files/math/22.pdf) | 常数项级数<br />幂级数<br />傅里叶级数<br />常数项级数的基本性质与敛散性判断<br />常数项级数敛散性证明<br />幂级数的收敛半径与收敛域<br />函数展开成幂级数<br />幂级数的和函数<br />特殊常数项级数求和<br />傅里叶级数 |
+| 向量代数与空间解析几何         | [向量代数与空间解析几何](http://zengbaocheng-996.github.io/files/math/23.pdf) | 空间解析几何的理论<br />向量的应用<br />向量的运算与性质<br />平面方程<br />直线方程<br />距离与夹角<br />旋转曲面 |
+| 数学的经济应用                 | 数学的经济应用                                               | 差分方程<br />边际与弹性<br />现值与利息                     |
 
 | Field            |                                                              |
 | ---------------- | ------------------------------------------------------------ |
