@@ -38,13 +38,13 @@ author_profile: true
 
 | 网络层             |                                                              |
 | ------------------ | ------------------------------------------------------------ |
-| 网络层的功能       | 异构网络互连<br />路由与转发<br />网络层提供的两种服务<br />SDN的基本概念<br />拥塞控制 |
-| IPv4               | IPv4分组<br />IPv4地址与NAT<br />划分子网与路由聚合<br />网络层转发分组的过程<br />地址解析协议（ARP）<br />动态主机配置协议（DHCP）<br />网际控制报文协议（ICMP） |
-| IPv6               | IPv6的特点<br />IPv6数据包的基本首部<br />IPv6地址<br />从IPv4向IPv6过渡 |
-| 路由算法与路由协议 | 路由算法<br />分层次的路由选择协议<br />路由信息协议（RIP）<br />开放最短路径优先（OSPF）协议<br />边界网关协议（BGP） |
-| IP多播             | 多播的概念<br />IP多播地址<br />在局域网上进行硬件多播<br />IGMP与多播路由协议 |
-| 移动IP             | 移动IP的概念<br />移动IP的通信过程                           |
-| 网络层设备         | 冲突域和广播域<br />路由器的组成和功能<br />路由表与分组转发 |
+| 网络层的功能       | [异构网络互连](http://zengbaocheng-996.github.io/files/nw/4-1-1.pdf)<br />[路由与转发](http://zengbaocheng-996.github.io/files/nw/4-1-2.pdf)<br />[网络层提供的两种服务](http://zengbaocheng-996.github.io/files/nw/4-1-3.pdf)<br />[SDN的基本概念](http://zengbaocheng-996.github.io/files/nw/4-1-4.pdf)<br />[拥塞控制](http://zengbaocheng-996.github.io/files/nw/4-1-5.pdf) |
+| IPv4               | [IPv4分组](http://zengbaocheng-996.github.io/files/nw/4-2-1.pdf)<br />[IPv4地址与NAT](http://zengbaocheng-996.github.io/files/nw/4-2-2.pdf)<br />[划分子网与路由聚合](http://zengbaocheng-996.github.io/files/nw/4-2-3.pdf)<br />[网络层转发分组的过程](http://zengbaocheng-996.github.io/files/nw/4-2-4.pdf)<br />[地址解析协议（ARP）](http://zengbaocheng-996.github.io/files/nw/4-2-5.pdf)<br />[动态主机配置协议（DHCP）](http://zengbaocheng-996.github.io/files/nw/4-2-6.pdf)<br />[网际控制报文协议（ICMP）](http://zengbaocheng-996.github.io/files/nw/4-2-7.pdf) |
+| IPv6               | [IPv6的特点](http://zengbaocheng-996.github.io/files/nw/4-3-1.pdf)<br />[IPv6数据包的基本首部](http://zengbaocheng-996.github.io/files/nw/4-3-2.pdf)<br />[IPv6地址](http://zengbaocheng-996.github.io/files/nw/4-3-3.pdf)<br />[从IPv4向IPv6过渡](http://zengbaocheng-996.github.io/files/nw/4-3-4.pdf) |
+| 路由算法与路由协议 | [路由算法](http://zengbaocheng-996.github.io/files/nw/4-4-1.pdf)<br />[分层次的路由选择协议](http://zengbaocheng-996.github.io/files/nw/4-4-2.pdf)<br />[路由信息协议（RIP）](http://zengbaocheng-996.github.io/files/nw/4-4-3.pdf)<br />[开放最短路径优先（OSPF）协议](http://zengbaocheng-996.github.io/files/nw/4-4-4.pdf)<br />[边界网关协议（BGP）](http://zengbaocheng-996.github.io/files/nw/4-4-5.pdf) |
+| IP多播             | [多播的概念](http://zengbaocheng-996.github.io/files/nw/4-5-1.pdf)<br />[IP多播地址](http://zengbaocheng-996.github.io/files/nw/4-5-2.pdf)<br />[在局域网上进行硬件多播](http://zengbaocheng-996.github.io/files/nw/4-5-3.pdf)<br />[IGMP与多播路由协议](http://zengbaocheng-996.github.io/files/nw/4-5-4.pdf) |
+| 移动IP             | [移动IP的概念](http://zengbaocheng-996.github.io/files/nw/4-6-1.pdf)<br />【移动IP的通信过程](http://zengbaocheng-996.github.io/files/nw/4-6-2.pdf) |
+| 网络层设备         | [冲突域和广播域](http://zengbaocheng-996.github.io/files/nw/4-7-1.pdf)<br />[路由器的组成和功能](http://zengbaocheng-996.github.io/files/nw/4-7-2.pdf)<br />[路由表与分组转发](http://zengbaocheng-996.github.io/files/nw/4-7-3.pdf) |
 
 | 传输层           |                                                              |
 | ---------------- | ------------------------------------------------------------ |
