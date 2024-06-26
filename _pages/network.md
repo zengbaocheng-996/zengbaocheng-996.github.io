@@ -43,7 +43,7 @@ author_profile: true
 | IPv6               | [IPv6的特点](http://zengbaocheng-996.github.io/files/nw/4-3-1.pdf)<br />[IPv6数据包的基本首部](http://zengbaocheng-996.github.io/files/nw/4-3-2.pdf)<br />[IPv6地址](http://zengbaocheng-996.github.io/files/nw/4-3-3.pdf)<br />[从IPv4向IPv6过渡](http://zengbaocheng-996.github.io/files/nw/4-3-4.pdf) |
 | 路由算法与路由协议 | [路由算法](http://zengbaocheng-996.github.io/files/nw/4-4-1.pdf)<br />[分层次的路由选择协议](http://zengbaocheng-996.github.io/files/nw/4-4-2.pdf)<br />[路由信息协议（RIP）](http://zengbaocheng-996.github.io/files/nw/4-4-3.pdf)<br />[开放最短路径优先（OSPF）协议](http://zengbaocheng-996.github.io/files/nw/4-4-4.pdf)<br />[边界网关协议（BGP）](http://zengbaocheng-996.github.io/files/nw/4-4-5.pdf) |
 | IP多播             | [多播的概念](http://zengbaocheng-996.github.io/files/nw/4-5-1.pdf)<br />[IP多播地址](http://zengbaocheng-996.github.io/files/nw/4-5-2.pdf)<br />[在局域网上进行硬件多播](http://zengbaocheng-996.github.io/files/nw/4-5-3.pdf)<br />[IGMP与多播路由协议](http://zengbaocheng-996.github.io/files/nw/4-5-4.pdf) |
-| 移动IP             | [移动IP的概念](http://zengbaocheng-996.github.io/files/nw/4-6-1.pdf)<br />【移动IP的通信过程](http://zengbaocheng-996.github.io/files/nw/4-6-2.pdf) |
+| 移动IP             | [移动IP的概念](http://zengbaocheng-996.github.io/files/nw/4-6-1.pdf)<br />[移动IP的通信过程](http://zengbaocheng-996.github.io/files/nw/4-6-2.pdf) |
 | 网络层设备         | [冲突域和广播域](http://zengbaocheng-996.github.io/files/nw/4-7-1.pdf)<br />[路由器的组成和功能](http://zengbaocheng-996.github.io/files/nw/4-7-2.pdf)<br />[路由表与分组转发](http://zengbaocheng-996.github.io/files/nw/4-7-3.pdf) |
 
 | 传输层           |                                                              |
