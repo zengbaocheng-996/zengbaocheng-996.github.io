@@ -48,15 +48,15 @@ author_profile: true
 
 | 传输层           |                                                              |
 | ---------------- | ------------------------------------------------------------ |
-| 传输层提供的服务 | 传输层的功能<br />传输层的寻址与端口<br />无连接服务与面向连接服务 |
-| UDP协议          | UDP数据报<br />UDP检验                                       |
-| TCP协议          | TCP协议的特点<br />TCP报文段<br />TCP连接管理<br />TCP可靠传输<br />TCP流量控制<br />TCP拥塞控制 |
+| 传输层提供的服务 | [传输层的功能](http://zengbaocheng-996.github.io/files/nw/5-1-1.pdf)<br />[传输层的寻址与端口](http://zengbaocheng-996.github.io/files/nw/5-1-2.pdf)<br />[无连接服务与面向连接服务](http://zengbaocheng-996.github.io/files/nw/5-1-3.pdf) |
+| UDP协议          | [UDP数据报](http://zengbaocheng-996.github.io/files/nw/5-2-1.pdf)<br />[UDP检验](http://zengbaocheng-996.github.io/files/nw/5-2-2.pdf) |
+| TCP协议          | [TCP协议的特点](http://zengbaocheng-996.github.io/files/nw/5-3-1.pdf)<br />[TCP报文段](http://zengbaocheng-996.github.io/files/nw/5-3-2.pdf)<br />[TCP连接管理](http://zengbaocheng-996.github.io/files/nw/5-3-3.pdf)<br />[TCP可靠传输](http://zengbaocheng-996.github.io/files/nw/5-3-4.pdf)<br />[TCP流量控制](http://zengbaocheng-996.github.io/files/nw/5-3-5.pdf)<br />[TCP拥塞控制](http://zengbaocheng-996.github.io/files/nw/5-3-6.pdf) |
 
 | 应用层              |                                                              |
 | ------------------- | ------------------------------------------------------------ |
-| 网络应用模型        | 客户/服务器模型<br />P2P模型                                 |
-| 域名系统（DNS）     | 层次域名空间<br />域名服务器<br />域名解析过程               |
-| 文件传输协议（FTP） | FTP的工作原理<br />控制连接与数据连接                        |
-| 电子邮件            | 电子邮件系统的组成结构<br />电子邮件格式与MIME<br />SMTP和POP3 |
-| 万维网（WWW）       | WWW的概念与组成结构<br />超文本传输协议（HTTP）              |
+| 网络应用模型        | [客户/服务器模型](http://zengbaocheng-996.github.io/files/nw/6-1-1.pdf)<br />[P2P模型](http://zengbaocheng-996.github.io/files/nw/6-1-2.pdf) |
+| 域名系统（DNS）     | [层次域名空间](http://zengbaocheng-996.github.io/files/nw/6-2-1.pdf)<br />[域名服务器](http://zengbaocheng-996.github.io/files/nw/6-2-2.pdf)<br />[域名解析过程](http://zengbaocheng-996.github.io/files/nw/6-2-3.pdf) |
+| 文件传输协议（FTP） | 【FTP的工作原理](http://zengbaocheng-996.github.io/files/nw/6-3-1.pdf)<br />[控制连接与数据连接](http://zengbaocheng-996.github.io/files/nw/6-3-2.pdf) |
+| 电子邮件            | 【电子邮件系统的组成结构](http://zengbaocheng-996.github.io/files/nw/6-4-1.pdf)<br />[电子邮件格式与MIME](http://zengbaocheng-996.github.io/files/nw/6-4-2.pdf)<br />[SMTP和POP3](http://zengbaocheng-996.github.io/files/nw/6-4-3.pdf) |
+| 万维网（WWW）       | 【WWW的概念与组成结构](http://zengbaocheng-996.github.io/files/nw/6-5-1.pdf)<br />[超文本传输协议（HTTP）](http://zengbaocheng-996.github.io/files/nw/6-5-2.pdf) |
 
