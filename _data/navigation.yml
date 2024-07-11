@@ -1,0 +1,38 @@
+# main links links
+main:
+
+  - title: "Math"
+    url: /math/
+
+  # - title: "Data Structure"
+  #   url: /ds/
+
+  # - title: "Operating System"
+  #   url: /os/
+
+  # - title: "Organization and Architecture"
+  #   url: /oaa/    
+      
+  # - title: "Network"
+  #   url: /nw/
+
+  # - title: "English"
+  #   url: /english/
+
+  # - title: "Martinez Clipper"
+  #   url: /mc/
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
