@@ -4,6 +4,8 @@ main:
   - title: "Math"
     url: /math/
 
+ - title: "Computer"
+    url: /computer/
   # - title: "Data Structure"
   #   url: /ds/
 
