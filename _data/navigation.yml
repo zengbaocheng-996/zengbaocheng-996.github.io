@@ -4,6 +4,9 @@ main:
   - title: "Math"
     url: /math/
 
+  - title: "Computer Compact"
+    url: /computer_compact/
+
   - title: "Computer"
     url: /computer/
 
