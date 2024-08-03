@@ -1,12 +1,12 @@
 # main links links
 main:
 
-  - title: "Math Compact"
-    url: /math_compact/
-  
   - title: "Computer Compact"
     url: /computer_compact/
 
+  - title: "Math Compact"
+    url: /math_compact/
+  
   - title: "Math"
     url: /math/
 
