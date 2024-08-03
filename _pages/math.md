@@ -5,27 +5,7 @@ permalink: /math/
 author_profile: true
 ---
 
-| 概率论与数理统计                                             |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [随机事件与概率](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/1.pdf) | 随机事件与概率<br />事件的关系与运算、概率基本公式<br />事件的独立性<br />三种常见的概型<br />全概率公式与贝叶斯公式 |
-| [一维随机变量及其分布](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/2.pdf) | 一维随机变量及其分布<br />一维离散型随机变量的分布律与分布函数<br />一维连续型随机变量的概率密度与分布函数<br />一维既非离散也非连续型随机变量的分布函数<br />随机变量函数的分布 |
-| [二维随机变量及其分布](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/3.pdf) | 二维离散型随机变量的分布<br />二维连续型随机变量的联合分布律与边缘分布律<br />条件分布<br />随机变量的独立性<br />二维随机变量的概率<br />二维离散型随机变量函数的分布<br />二维连续型随机变量函数的分布<br />二维随机变量中一个为离散型一个为连续型 |
-| [随机变量的数字特征](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/4.pdf) | 随即变量的数字特征<br />一维离散型随机变量的数学期望和方差<br />一维连续型随机变量的数学期望和方差<br />二维离散型随机变量的数字特征<br />二维连续型随机变量的数字特征<br />随机变量的独立性与相关性 |
-| [大数定律与中心极限定理](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/5.pdf) | 大数定律与中心极限定理<br />切比雪夫不等式<br />大数定律<br />中心极限定理 |
-| [数理统计的基本概念](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/6.pdf) | 数理统计基本概念<br />统计量的基本概念<br />三个抽样分布<br />分位点<br />统计量的数字特征与概率 |
-| [参数估计](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/7.pdf) | 参数估计<br />离散型总体参数的点估计<br />连续型总体参数的点估计<br />估计量的无偏性<br />参数的区间估计 |
-| 假设检验                                                     | 假设检验<br />一个正态总体的假设检验<br />两个正态总体的假设检验 |
-
-| 线性代数         |                                                              |                                                              |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 行列式           | [行列式](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/1.pdf) | 行列式的基本概念与性质<br />行列式的应用——克拉默法则<br />行列式的基本概念<br />低阶行列式的计算<br />n阶行列式的计算<br />矩阵的行列式计算<br />余子式与代数余子式 |
-| 矩阵             | [矩阵](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/2.pdf) | 矩阵的基本概念与特殊矩阵<br />矩阵的运算及性质<br />矩阵的逆矩阵<br />矩阵的秩<br />矩阵等价<br />矩阵的运算与矩阵的行列式计算<br />矩阵的幂矩阵<br />初等变换与初等矩阵<br />逆矩阵的计算与证明<br />伴随矩阵与矩阵的逆矩阵关系问题<br />矩阵方程<br />矩阵的秩 |
-| 向量             | [向量](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/3.pdf) | 向量的概念与运算<br />向量组的相关性与线性表示<br />向量组等价、向量组的极大线性无关组与向量组的秩<br />n维向量空间<br />向量组的相关性<br />向量的线性表示<br />向量组等价与向量组的秩<br />过度矩阵与向量的坐标 |
-| 线性方程组       | [线性方程组](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/4.pdf) | 方程组的解的理论证明 矩阵秩的性质<br />线性方程组解的结构与性质<br />齐次线性方程组的解<br />非齐次线性方程组的解<br />线性方程组的理论证明<br />方程组的公共解与方程组同解 |
-| 特征值和特征向量 | [矩阵的特征值和特征向量](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5.pdf) | 特征值与特征向量的基本概念<br />特征值与特征向量的性质<br />矩阵对角化理论<br />求矩阵的特征值与特征向量<br />特征值与特征向量的定义与性质<br />矩阵相似的判断<br />非实对称矩阵的对角化<br />实对称矩阵的对角化<br />求A的m次方<br />特征值法求未知矩阵<br />特征值、特征向量命题的证明 |
-| 二次型           | [二次型](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/6.pdf) | 二次型的基本概念及其标准形<br />正定矩阵与正定二次型<br />二次型的概念与性质<br />二次型的标准形<br />含参数的二次型问题<br />正定二次型的判别与证明问题<br />矩阵相似与合同 |
-
-| 微积分                         |                                                              |                                                              |
+| 高等数学                       |                                                              |                                                              |
 | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 零基础                         | [零基础](http://zengbaocheng-996.github.io/files/math/1_calculus/0.pdf) | \                                                            |
 | 函数、极限、连续               | [函数及函数的初等特性](http://zengbaocheng-996.github.io/files/math/1_calculus/1.pdf)<br />[极限](http://zengbaocheng-996.github.io/files/math/1_calculus/2.pdf)<br />[无穷小和无穷大](http://zengbaocheng-996.github.io/files/math/1_calculus/3.pdf)<br />[极限存在准则与重要极限](http://zengbaocheng-996.github.io/files/math/1_calculus/4.pdf)<br />[连续与间断](http://zengbaocheng-996.github.io/files/math/1_calculus/5.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/1_calculus/m1.pdf) | 函数<br />极限<br />连续与间断<br />极限的概念与性质<br />左、右极限<br />不定型极限的计算问题<br />n项和或积的极限计算<br />极限存在性问题<br />含参数的极限问题<br />中值定理法求极限问题<br />含变积分限的函数极限问题<br />间断点及其分类<br />闭区间上连续函数性质 |
