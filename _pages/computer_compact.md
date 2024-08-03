@@ -35,11 +35,11 @@ author_profile: true
 
 | 组成原理(717)         |                                                              |
 | --------------------- | ------------------------------------------------------------ |
-| 计算机系统概述(59)    | 计算机系统层次结构(24)<br />计算机的性能指标(35)             |
-| 数据的表示和运算(126) | 数制与编码(34)<br />运算方法和运算电路(37)<br />浮点数的表示与运算(55) |
-| 存储系统(154)         | 存储器概述(14)<br />主存储器(39)<br />主存储器与 CPU 的连接(20)<br />外部存储器(13)<br />高速缓冲存储器(40)<br />虚拟存储器(28) |
-| 指令系统(84)          | 指令系统(20)<br />指令的寻址方式(43)<br />程序的机器级代码表示(16)<br />CISC 和 RISC 的基本概念(5) |
-| 中央处理器(156)       | CPU 的功能和基本结构(27)<br />指令执行过程(17)<br />数据通路的功能和基本结构(20)<br />控制器的功能和工作原理(31)<br />异常和中断机制(13)<br />指令流水线(36)<br />多处理器的基本概念(12) |
-| 总线(50)              | 总线概述(29)<br />总线事务和定时(21)                         |
-| 输入/输出系统(88)     | I/O 系统基本概念(4)<br />I/O 接口(18)<br />I/O 方式(66)      |
+| 计算机系统概述(59)    | [计算机系统层次结构(24)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/1.pdf)<br />[计算机的性能指标(35)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/2.pdf) |
+| 数据的表示和运算(126) | [数制与编码(34)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/3.pdf)<br />[运算方法和运算电路(37)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/4.pdf)<br />[浮点数的表示与运算(55)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/5.pdf) |
+| 存储系统(154)         | [存储器概述(14)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/6.pdf)<br />[主存储器(39)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/7.pdf)<br />[主存储器与 CPU 的连接(20)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/8.pdf)<br />[外部存储器(13)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/9.pdf)<br />[高速缓冲存储器(40)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/10.pdf)<br />[虚拟存储器(28)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/11.pdf) |
+| 指令系统(84)          | [指令系统(20)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/12.pdf)<br />[指令的寻址方式(43)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/13.pdf)<br />[程序的机器级代码表示(16)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/14.pdf)<br />[CISC 和 RISC 的基本概念(5)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/15.pdf) |
+| 中央处理器(156)       | [CPU 的功能和基本结构(27)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/16.pdf)<br />[指令执行过程(17)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/17.pdf)<br />[数据通路的功能和基本结构(20)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/18.pdf)<br />[控制器的功能和工作原理(31)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/19.pdf)<br />[异常和中断机制(13)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/20.pdf)<br />[指令流水线(36)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/21.pdf)<br />[多处理器的基本概念(12)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/22.pdf) |
+| 总线(50)              | [总线概述(29)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/23.pdf)<br />[总线事务和定时(21)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/24.pdf) |
+| 输入/输出系统(88)     | [I/O 系统基本概念(4)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/25.pdf)<br />[I/O 接口(18)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/26.pdf)<br />[I/O 方式(66)](http://zengbaocheng-996.github.io/files/computer_compact/oaa/27.pdf) |
 

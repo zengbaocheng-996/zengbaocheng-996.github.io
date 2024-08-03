@@ -9,14 +9,14 @@ author_profile: true
 
 | Field                                                        |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [绪论](http://zengbaocheng-996.github.io/files/ds/0.pdf)     | 数据结构的基本概念<br />算法和算法评价                       |
-| [线性表](http://zengbaocheng-996.github.io/files/ds/1.pdf)   | 线性表的定义和基本操作<br />线性表的顺序表示<br />线性表的链式表示 |
-| [栈、队列和数组](http://zengbaocheng-996.github.io/files/ds/2.pdf) | 栈<br />队列<br />栈和队列的应用<br />数组和特殊矩阵         |
-| [串](http://zengbaocheng-996.github.io/files/ds/3.pdf)       | 串的定义和实现<br />串的模式匹配                             |
-| [树与二叉树](http://zengbaocheng-996.github.io/files/ds/4.pdf) | 树的基本概念<br />二叉树的概念<br />二叉树的遍历和线索二叉树<br />树、森林 树与二叉树的应用 |
-| [图](http://zengbaocheng-996.github.io/files/ds/5.pdf)       | 图的基本概念<br />图的存储及基本操作<br />图的遍历<br />图的应用 |
-| [查找](http://zengbaocheng-996.github.io/files/ds/6.pdf)     | 查找的基本概念<br />顺序查找和折半查找<br />树形查找<br />[二叉平衡树 AVL](http://zengbaocheng-996.github.io/files/ds/avl.pdf)<br />B树和B+树<br />散列（Hash）表 |
-| [排序](http://zengbaocheng-996.github.io/files/ds/7.pdf)     | 排序的基本概念<br />插入排序<br />交换排序<br />选择排序<br />归并排序、基数排序和计数排序<br />各种内部排序算法的比较及应用<br />外部排序 |
+| [绪论](http://zengbaocheng-996.github.io/files/computer/ds/0.pdf) | 数据结构的基本概念<br />算法和算法评价                       |
+| [线性表](http://zengbaocheng-996.github.io/files/computer/ds/1.pdf) | 线性表的定义和基本操作<br />线性表的顺序表示<br />线性表的链式表示 |
+| [栈、队列和数组](http://zengbaocheng-996.github.io/files/computer/ds/2.pdf) | 栈<br />队列<br />栈和队列的应用<br />数组和特殊矩阵         |
+| [串](http://zengbaocheng-996.github.io/files/computer/ds/3.pdf) | 串的定义和实现<br />串的模式匹配                             |
+| [树与二叉树](http://zengbaocheng-996.github.io/files/computer/ds/4.pdf) | 树的基本概念<br />二叉树的概念<br />二叉树的遍历和线索二叉树<br />树、森林 树与二叉树的应用 |
+| [图](http://zengbaocheng-996.github.io/files/computer/ds/5.pdf) | 图的基本概念<br />图的存储及基本操作<br />图的遍历<br />图的应用 |
+| [查找](http://zengbaocheng-996.github.io/files/computer/ds/6.pdf) | 查找的基本概念<br />顺序查找和折半查找<br />树形查找<br />[二叉平衡树 AVL](http://zengbaocheng-996.github.io/files/computer/ds/avl.pdf)<br />B树和B+树<br />散列（Hash）表 |
+| [排序](http://zengbaocheng-996.github.io/files/computer/ds/7.pdf) | 排序的基本概念<br />插入排序<br />交换排序<br />选择排序<br />归并排序、基数排序和计数排序<br />各种内部排序算法的比较及应用<br />外部排序 |
 
 | Field                |                                                              |
 | -------------------- | ------------------------------------------------------------ |
@@ -167,9 +167,9 @@ author_profile: true
 
 | 应用层              |                                                              |
 | ------------------- | ------------------------------------------------------------ |
-| 网络应用模型        | [客户/服务器模型](http://zengbaocheng-996.github.io/files/nw/6-1-1.pdf)<br />[P2P模型](http://zengbaocheng-996.github.io/files/nw/6-1-2.pdf) |
-| 域名系统（DNS）     | [层次域名空间](http://zengbaocheng-996.github.io/files/nw/6-2-1.pdf)<br />[域名服务器](http://zengbaocheng-996.github.io/files/nw/6-2-2.pdf)<br />[域名解析过程](http://zengbaocheng-996.github.io/files/nw/6-2-3.pdf) |
-| 文件传输协议（FTP） | [FTP的工作原理](http://zengbaocheng-996.github.io/files/nw/6-3-1.pdf)<br />[控制连接与数据连接](http://zengbaocheng-996.github.io/files/nw/6-3-2.pdf) |
-| 电子邮件            | [电子邮件系统的组成结构](http://zengbaocheng-996.github.io/files/nw/6-4-1.pdf)<br />[电子邮件格式与MIME](http://zengbaocheng-996.github.io/files/nw/6-4-2.pdf)<br />[SMTP和POP3](http://zengbaocheng-996.github.io/files/nw/6-4-3.pdf) |
-| 万维网（WWW）       | [WWW的概念与组成结构](http://zengbaocheng-996.github.io/files/nw/6-5-1.pdf)<br />[超文本传输协议（HTTP）](http://zengbaocheng-996.github.io/files/nw/6-5-2.pdf) |
+| 网络应用模型        | [客户/服务器模型](http://zengbaocheng-996.github.io/files/computer/nw/6-1-1.pdf)<br />[P2P模型](http://zengbaocheng-996.github.io/files/computer/nw/6-1-2.pdf) |
+| 域名系统（DNS）     | [层次域名空间](http://zengbaocheng-996.github.io/files/computer/nw/6-2-1.pdf)<br />[域名服务器](http://zengbaocheng-996.github.io/files/computer/nw/6-2-2.pdf)<br />[域名解析过程](http://zengbaocheng-996.github.io/files/computer/nw/6-2-3.pdf) |
+| 文件传输协议（FTP） | [FTP的工作原理](http://zengbaocheng-996.github.io/files/computer/nw/6-3-1.pdf)<br />[控制连接与数据连接](http://zengbaocheng-996.github.io/files/computer/nw/6-3-2.pdf) |
+| 电子邮件            | [电子邮件系统的组成结构](http://zengbaocheng-996.github.io/files/computer/nw/6-4-1.pdf)<br />[电子邮件格式与MIME](http://zengbaocheng-996.github.io/files/computer/nw/6-4-2.pdf)<br />[SMTP和POP3](http://zengbaocheng-996.github.io/files/computer/nw/6-4-3.pdf) |
+| 万维网（WWW）       | [WWW的概念与组成结构](http://zengbaocheng-996.github.io/files/computer/nw/6-5-1.pdf)<br />[超文本传输协议（HTTP）](http://zengbaocheng-996.github.io/files/computer/nw/6-5-2.pdf) |
 
