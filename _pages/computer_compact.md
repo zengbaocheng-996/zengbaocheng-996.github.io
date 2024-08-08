@@ -27,11 +27,11 @@ author_profile: true
 
 | 操作系统(673)             |                                                              |
 | ------------------------- | ------------------------------------------------------------ |
-| 计算机系统概述(97)        | 操作系统的基本概念(15)<br />操作系统发展历程(22)<br />操作系统的运行环境(38)<br />虚拟机(22) |
-| 进程与线程(276)           | 进程与线程(76)<br />CPU 调度(61)<br />同步与互斥(87)<br />死锁(52) |
-| 内存管理(83)              | \                                                            |
-| 文件管理(104)             | 文件系统基础(65)<br />目录(21)<br />文件系统(18)             |
-| 输入\输出 (I\O) 管理(113) | I\O 管理概述(28)<br />设备独立性软件(45)<br />磁盘和固态硬盘(40) |
+| 计算机系统概述(97)        | [操作系统的基本概念(15)](http://zengbaocheng-996.github.io/files/computer_compact/os/1.pdf)<br />[操作系统发展历程(22)](http://zengbaocheng-996.github.io/files/computer_compact/os/2.pdf)<br />[操作系统的运行环境(38)](http://zengbaocheng-996.github.io/files/computer_compact/os/3.pdf)<br />[虚拟机(22)](http://zengbaocheng-996.github.io/files/computer_compact/os/4.pdf) |
+| 进程与线程(276)           | [进程与线程(76)](http://zengbaocheng-996.github.io/files/computer_compact/os/5.pdf)<br />[CPU 调度(61)](http://zengbaocheng-996.github.io/files/computer_compact/os/6.pdf)<br />[同步与互斥(87)](http://zengbaocheng-996.github.io/files/computer_compact/os/7.pdf)<br />[死锁(52)](http://zengbaocheng-996.github.io/files/computer_compact/os/8.pdf) |
+| 内存管理(83)              | [内存管理概念(83)](http://zengbaocheng-996.github.io/files/computer_compact/os/9.pdf)<br />[虚拟内存管理(78)](http://zengbaocheng-996.github.io/files/computer_compact/os/10.pdf) |
+| 文件管理(104)             | [文件系统基础(65)](http://zengbaocheng-996.github.io/files/computer_compact/os/11.pdf)<br />[目录(21)](http://zengbaocheng-996.github.io/files/computer_compact/os/12.pdf)<br />[文件系统(18)](http://zengbaocheng-996.github.io/files/computer_compact/os/13.pdf) |
+| 输入\输出 (I\O) 管理(113) | [I\O 管理概述(28)](http://zengbaocheng-996.github.io/files/computer_compact/os/14.pdf)<br />[设备独立性软件(45)](http://zengbaocheng-996.github.io/files/computer_compact/os/15.pdf)<br />[磁盘和固态硬盘(40)](http://zengbaocheng-996.github.io/files/computer_compact/os/16.pdf) |
 
 | 组成原理(717)         |                                                              |
 | --------------------- | ------------------------------------------------------------ |
