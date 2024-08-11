@@ -36,13 +36,3 @@ redirect_from:
 | Space Partition            |
 | Minkowski Operation        |
 
-# 研究
-
-| Field                                  |
-| -------------------------------------- |
-| Computer Network                       |
-| Computer Organization and Architecture |
-| Operating System                       |
-| Data Structure                         |
-| Higher Mathematics                     |
-
