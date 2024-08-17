@@ -24,6 +24,6 @@ author_profile: true
 | 三重积分与曲线、曲面积分       | [三重积分](http://zengbaocheng-996.github.io/files/math/1_calculus/20.pdf)<br />[曲线积分](http://zengbaocheng-996.github.io/files/math/1_calculus/21.pdf)<br />[曲面积分](http://zengbaocheng-996.github.io/files/math/1_calculus/22.pdf) |
 | 向量代数与空间解析几何         | [向量代数与空间解析几何](http://zengbaocheng-996.github.io/files/math/1_calculus/23.pdf) |
 | 微分方程                       | [微分方程](http://zengbaocheng-996.github.io/files/math/1_calculus/17.pdf) |
-| 无穷级数                       | [无穷级数](http://zengbaocheng-996.github.io/files/math/1_calculus/23.pdf) |
+| 无穷级数                       | [常数项级数](http://zengbaocheng-996.github.io/files/math/1_calculus/22_1.pdf)<br />[幂级数](http://zengbaocheng-996.github.io/files/math/1_calculus/22_2.pdf)<br />[傅里叶级数](http://zengbaocheng-996.github.io/files/math/1_calculus/22_3.pdf) |
 | 数学的经济应用                 | [数学的经济应用](http://zengbaocheng-996.github.io/files/math/1_calculus/24.pdf) |
 
