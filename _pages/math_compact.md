@@ -5,11 +5,24 @@ permalink: /math_compact/
 author_profile: true
 ---
 
-| 数学             |                                                              |
-| ---------------- | ------------------------------------------------------------ |
-| 概率论与数理统计 | [随机事件与概率](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/1.pdf)<br />[一维随机变量及其分布](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/2.pdf)<br />[二维随机变量及其分布](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/3.pdf)<br />[随机变量的数字特征](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/4.pdf)<br />[大数定律与中心极限定理](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/5.pdf)<br />[数理统计的基本概念](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/6.pdf)<br />[参数估计](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/7.pdf) |
-| 线性代数         | [行列式](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/1.pdf)<br />[矩阵-1](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/2-1.pdf)<br />[矩阵-2](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/2-2.pdf)<br />[矩阵-3](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/2-3.pdf)<br />[矩阵-4](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/2-4.pdf)<br />[向量](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/3.pdf)<br />[线性方程组](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/4.pdf)<br />[矩阵的特征值和特征向量](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5.pdf)<br />[二次型](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/6.pdf) |
-| 高等数学         | \                                                            |
+| 概率论与数理统计                                             |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 随机事件与概率                                               | [随机事件与概率-1](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/1-1.pdf)<br />[随机事件与概率-2](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/1-2.pdf) |
+| 一维随机变量及其分布                                         | [一维随机变量及其分布-1](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/2-1.pdf)<br />[一维随机变量及其分布-2](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/2-2.pdf) |
+| 二维随机变量及其分布                                         | [二维随机变量及其分布-1](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/3-1.pdf)<br />[二维随机变量及其分布-2](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/3-2.pdf)<br />[二维随机变量及其分布-3](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/3-3.pdf) |
+| 随机变量的数字特征                                           | [随机变量的数字特征-1](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/4-1.pdf)<br />[随机变量的数字特征-2](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/4-2.pdf) |
+| [大数定律与中心极限定理](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/5.pdf) | \                                                            |
+| [数理统计的基本概念](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/6.pdf) | \                                                            |
+| [参数估计](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/7.pdf) | \                                                            |
+
+| 线性代数                                                     |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [行列式](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/1.pdf) | \                                                            |
+| 矩阵                                                         | [矩阵-1](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/2-1.pdf)<br />[矩阵-2](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/2-2.pdf)<br />[矩阵-3](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/2-3.pdf)<br />[矩阵-4](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/2-4.pdf) |
+| 向量                                                         | [向量-1](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/3-1.pdf)<br />[向量-2](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/3-2.pdf)<br />[向量-3](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/3-3.pdf) |
+| 线性方程组                                                   | [线性方程组-1](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/4-1.pdf)<br />[线性方程组-2](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/4-2.pdf) |
+| 矩阵的特征值和特征向量                                       | [矩阵的特征值和特征向量-1](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5-1.pdf)<br />[矩阵的特征值和特征向量-2](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5-2.pdf)<br />[矩阵的特征值和特征向量-3](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5-3.pdf)<br />[矩阵的特征值和特征向量-4](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5-4.pdf) |
+| 二次型                                                       | [二次型-1](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/6-1.pdf)<br />[二次型-2](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/6-2.pdf) |
 
 | 高等数学                       |                                                              |
 | ------------------------------ | ------------------------------------------------------------ |
