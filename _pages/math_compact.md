@@ -22,7 +22,7 @@ author_profile: true
 | 向量                                                         | [向量/模/内积](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/3-1.pdf)<br />[相关性与线性表示](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/3-2.pdf)<br />[向量组等价/极大线性无关组与向量组的秩](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/3-3.pdf) |
 | 线性方程组                                                   | [线性方程组](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/4-1.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/4-2.pdf) |
 | 矩阵的特征值和特征向量                                       | [特征值和特征向量/矩阵相似](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5-1.pdf)<br />[一般性质/实对称阵性质](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5-2.pdf)<br />[矩阵对角化](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5-3.pdf)<br />[题型](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/5-4.pdf) |
-| 二次型                                                       | [二次型-1](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/6-1.pdf)<br />[二次型-2](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/6-2.pdf) |
+| 二次型                                                       | [二次型/标准化](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/6-1.pdf)<br />[正定二次型](http://zengbaocheng-996.github.io/files/math/2_linear_algebra/6-2.pdf) |
 
 | 高等数学                       |                                                              |
 | ------------------------------ | ------------------------------------------------------------ |
