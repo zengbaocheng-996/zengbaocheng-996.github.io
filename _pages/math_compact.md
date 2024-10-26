@@ -7,7 +7,7 @@ author_profile: true
 
 | 概率论与数理统计                                             |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 随机事件与概率                                               | [随机事件与概率-1](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/1-1.pdf)<br />[随机事件与概率-2](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/1-2.pdf) |
+| [随机事件与概率](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/1.pdf) | \                                                            |
 | 一维随机变量及其分布                                         | [一维随机变量及其分布-1](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/2-1.pdf)<br />[一维随机变量及其分布-2](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/2-2.pdf) |
 | 二维随机变量及其分布                                         | [二维随机变量及其分布-1](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/3-1.pdf)<br />[二维随机变量及其分布-2](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/3-2.pdf)<br />[二维随机变量及其分布-3](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/3-3.pdf) |
 | 随机变量的数字特征                                           | [随机变量的数字特征-1](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/4-1.pdf)<br />[随机变量的数字特征-2](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/4-2.pdf) |
