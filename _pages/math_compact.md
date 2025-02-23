@@ -14,6 +14,7 @@ author_profile: true
 | [大数定律与中心极限定理](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/5.pdf) |
 | [数理统计的基本概念](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/6.pdf) |
 | [参数估计](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/7.pdf) |
+| [假设检验](http://zengbaocheng-996.github.io/files/math/3_probability_and_statistics/8.pdf) |
 
 | 线性代数                                                     |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
